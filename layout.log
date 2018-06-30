@@ -1,0 +1,1808 @@
+Fri Jun 02 21:38:07 Saved as file E:\MEUS DOCUMENTOS\PROJETOS\GRAVADOR PIC\GRAVADOR PIC.MAX
+Fri Jun 02 21:38:07 Saved as file BACKUP1.MAX
+Fri Jun 02 21:38:07 Saved as file E:\MEUS DOCUMENTOS\PROJETOS\GRAVADOR PIC\GRAVADOR PIC.MAX
+Fri Jun 02 21:38:07 UserDiv from Layout.INI for AutoECO: 60
+Fri Jun 02 21:38:07 Loaded file E:\MEUS DOCUMENTOS\PROJETOS\GRAVADOR PIC\GRAVADOR PIC.MAX
+Fri Jun 02 21:38:07 Loaded file E:\MEUS DOCUMENTOS\PROJETOS\TEMPLATE\BIBLIOTECA.LLB
+Fri Jun 02 21:38:08 Loaded file E:\MEUS DOCUMENTOS\TEMPLATE\BIBLIOTECA.LLB
+Fri Jun 02 21:38:08 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\BCON100T.llb
+Fri Jun 02 21:38:08 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\BCON156T.llb
+Fri Jun 02 21:38:08 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\BGA.llb
+Fri Jun 02 21:38:08 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\CLCC.llb
+Fri Jun 02 21:38:08 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\DCON050T.llb
+Fri Jun 02 21:38:08 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\DCON085T.llb
+Fri Jun 02 21:38:08 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\DIMM050F.llb
+Fri Jun 02 21:38:08 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\DIMM050T.llb
+Fri Jun 02 21:38:08 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\DIN.llb
+Fri Jun 02 21:38:08 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\DIP100B.llb
+Fri Jun 02 21:38:08 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\DIP100T.llb
+Fri Jun 02 21:38:08 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\DSUBT.llb
+Fri Jun 02 21:38:08 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\DSUBT_HD.LLB
+Fri Jun 02 21:38:08 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\ECON100T.llb
+Fri Jun 02 21:38:08 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\FBUS.llb
+Fri Jun 02 21:38:08 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\ISA.llb
+Fri Jun 02 21:38:08 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\JUMPER.LLB
+Fri Jun 02 21:38:08 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\LAYOUT.llb
+Fri Jun 02 21:38:08 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\LCON100T.llb
+Fri Jun 02 21:38:08 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\PC104.llb
+Fri Jun 02 21:38:08 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\PCI.llb
+Fri Jun 02 21:38:08 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\PCON100T.llb
+Fri Jun 02 21:38:08 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\PCON156T.llb
+Fri Jun 02 21:38:08 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\PGA.llb
+Fri Jun 02 21:38:08 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\PLCC.llb
+Fri Jun 02 21:38:09 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\QUAD.llb
+Fri Jun 02 21:38:09 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\QUADB.llb
+Fri Jun 02 21:38:09 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\RELAY.llb
+Fri Jun 02 21:38:09 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\RF.llb
+Fri Jun 02 21:38:09 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\SBUS.llb
+Fri Jun 02 21:38:09 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\SIMM050F.llb
+Fri Jun 02 21:38:09 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\SIMM050T.llb
+Fri Jun 02 21:38:09 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\SIMM100F.llb
+Fri Jun 02 21:38:09 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\SIMM100T.llb
+Fri Jun 02 21:38:09 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\SIP.llb
+Fri Jun 02 21:38:09 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\SM.llb
+Fri Jun 02 21:38:09 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\SOG.llb
+Fri Jun 02 21:38:09 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\SOJ.llb
+Fri Jun 02 21:38:09 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\STIFF.llb
+Fri Jun 02 21:38:09 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\TELE.llb
+Fri Jun 02 21:38:09 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\TM_AXIAL.llb
+Fri Jun 02 21:38:09 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\TM_CAP_P.llb
+Fri Jun 02 21:38:09 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\TM_CYLND.llb
+Fri Jun 02 21:38:09 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\TM_DIODE.llb
+Fri Jun 02 21:38:09 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\TM_DISC.llb
+Fri Jun 02 21:38:09 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\TM_RAD.llb
+Fri Jun 02 21:38:09 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\TO.llb
+Fri Jun 02 21:38:09 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\TRAINING.LLB
+Fri Jun 02 21:38:10 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\VRES.llb
+Fri Jun 02 21:38:10 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\WCON100T.llb
+Fri Jun 02 21:38:10 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\XT.llb
+Fri Jun 02 21:38:10 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\ZIGZAG.llb
+Fri Jun 02 21:38:11 Loaded file E:\MEUS DOCUMENTOS\PROJETOS\GRAVADOR PIC\GRAVADOR PIC.MAX
+Fri Jun 02 21:38:11 Saved as file E:\MEUS DOCUMENTOS\PROJETOS\GRAVADOR PIC\GRAVADOR PIC.MAX
+Fri Jun 02 21:38:11 Loaded file E:\MEUS DOCUMENTOS\PROJETOS\GRAVADOR PIC\GRAVADOR PIC.MAX
+Fri Jun 02 21:39:14 Saved as file E:\MEUS DOCUMENTOS\PROJETOS\GRAVADOR PIC\GRAVADOR PIC.MAX
+Fri Jun 02 21:39:14 Saved as file BACKUP1.MAX
+Fri Jun 02 21:39:14 Saved as file E:\MEUS DOCUMENTOS\PROJETOS\GRAVADOR PIC\GRAVADOR PIC.MAX
+Fri Jun 02 21:39:14 UserDiv from Layout.INI for AutoECO: 60
+Fri Jun 02 21:39:14 Loaded file E:\MEUS DOCUMENTOS\PROJETOS\GRAVADOR PIC\GRAVADOR PIC.MAX
+Fri Jun 02 21:39:14 Loaded file E:\MEUS DOCUMENTOS\PROJETOS\TEMPLATE\BIBLIOTECA.LLB
+Fri Jun 02 21:39:14 Loaded file E:\MEUS DOCUMENTOS\TEMPLATE\BIBLIOTECA.LLB
+Fri Jun 02 21:39:14 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\BCON100T.llb
+Fri Jun 02 21:39:14 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\BCON156T.llb
+Fri Jun 02 21:39:14 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\BGA.llb
+Fri Jun 02 21:39:14 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\CLCC.llb
+Fri Jun 02 21:39:14 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\DCON050T.llb
+Fri Jun 02 21:39:14 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\DCON085T.llb
+Fri Jun 02 21:39:14 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\DIMM050F.llb
+Fri Jun 02 21:39:14 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\DIMM050T.llb
+Fri Jun 02 21:39:14 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\DIN.llb
+Fri Jun 02 21:39:15 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\DIP100B.llb
+Fri Jun 02 21:39:15 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\DIP100T.llb
+Fri Jun 02 21:39:15 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\DSUBT.llb
+Fri Jun 02 21:39:15 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\DSUBT_HD.LLB
+Fri Jun 02 21:39:15 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\ECON100T.llb
+Fri Jun 02 21:39:15 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\FBUS.llb
+Fri Jun 02 21:39:15 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\ISA.llb
+Fri Jun 02 21:39:15 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\JUMPER.LLB
+Fri Jun 02 21:39:15 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\LAYOUT.llb
+Fri Jun 02 21:39:15 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\LCON100T.llb
+Fri Jun 02 21:39:15 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\PC104.llb
+Fri Jun 02 21:39:15 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\PCI.llb
+Fri Jun 02 21:39:15 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\PCON100T.llb
+Fri Jun 02 21:39:15 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\PCON156T.llb
+Fri Jun 02 21:39:15 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\PGA.llb
+Fri Jun 02 21:39:15 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\PLCC.llb
+Fri Jun 02 21:39:15 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\QUAD.llb
+Fri Jun 02 21:39:15 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\QUADB.llb
+Fri Jun 02 21:39:15 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\RELAY.llb
+Fri Jun 02 21:39:15 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\RF.llb
+Fri Jun 02 21:39:15 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\SBUS.llb
+Fri Jun 02 21:39:15 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\SIMM050F.llb
+Fri Jun 02 21:39:15 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\SIMM050T.llb
+Fri Jun 02 21:39:15 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\SIMM100F.llb
+Fri Jun 02 21:39:15 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\SIMM100T.llb
+Fri Jun 02 21:39:15 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\SIP.llb
+Fri Jun 02 21:39:15 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\SM.llb
+Fri Jun 02 21:39:15 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\SOG.llb
+Fri Jun 02 21:39:15 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\SOJ.llb
+Fri Jun 02 21:39:15 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\STIFF.llb
+Fri Jun 02 21:39:15 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\TELE.llb
+Fri Jun 02 21:39:15 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\TM_AXIAL.llb
+Fri Jun 02 21:39:15 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\TM_CAP_P.llb
+Fri Jun 02 21:39:15 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\TM_CYLND.llb
+Fri Jun 02 21:39:15 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\TM_DIODE.llb
+Fri Jun 02 21:39:15 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\TM_DISC.llb
+Fri Jun 02 21:39:15 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\TM_RAD.llb
+Fri Jun 02 21:39:15 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\TO.llb
+Fri Jun 02 21:39:15 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\TRAINING.LLB
+Fri Jun 02 21:39:15 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\VRES.llb
+Fri Jun 02 21:39:15 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\WCON100T.llb
+Fri Jun 02 21:39:15 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\XT.llb
+Fri Jun 02 21:39:15 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\ZIGZAG.llb
+Fri Jun 02 21:39:16 Loaded file E:\MEUS DOCUMENTOS\PROJETOS\GRAVADOR PIC\GRAVADOR PIC.MAX
+Fri Jun 02 21:39:16 Saved as file E:\MEUS DOCUMENTOS\PROJETOS\GRAVADOR PIC\GRAVADOR PIC.MAX
+Fri Jun 02 21:39:16 Loaded file E:\MEUS DOCUMENTOS\PROJETOS\GRAVADOR PIC\GRAVADOR PIC.MAX
+Fri Jun 02 21:39:49 Saved as file E:\MEUS DOCUMENTOS\PROJETOS\GRAVADOR PIC\GRAVADOR PIC.MAX
+Fri Jun 02 21:39:49 Saved as file BACKUP1.MAX
+Fri Jun 02 21:39:49 Saved as file E:\MEUS DOCUMENTOS\PROJETOS\GRAVADOR PIC\GRAVADOR PIC.MAX
+Fri Jun 02 21:39:49 UserDiv from Layout.INI for AutoECO: 60
+Fri Jun 02 21:39:49 Loaded file E:\MEUS DOCUMENTOS\PROJETOS\GRAVADOR PIC\GRAVADOR PIC.MAX
+Fri Jun 02 21:39:49 Loaded file E:\MEUS DOCUMENTOS\PROJETOS\TEMPLATE\BIBLIOTECA.LLB
+Fri Jun 02 21:39:49 Loaded file E:\MEUS DOCUMENTOS\TEMPLATE\BIBLIOTECA.LLB
+Fri Jun 02 21:39:49 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\BCON100T.llb
+Fri Jun 02 21:39:49 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\BCON156T.llb
+Fri Jun 02 21:39:49 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\BGA.llb
+Fri Jun 02 21:39:49 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\CLCC.llb
+Fri Jun 02 21:39:49 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\DCON050T.llb
+Fri Jun 02 21:39:49 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\DCON085T.llb
+Fri Jun 02 21:39:49 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\DIMM050F.llb
+Fri Jun 02 21:39:49 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\DIMM050T.llb
+Fri Jun 02 21:39:49 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\DIN.llb
+Fri Jun 02 21:39:49 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\DIP100B.llb
+Fri Jun 02 21:39:49 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\DIP100T.llb
+Fri Jun 02 21:39:49 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\DSUBT.llb
+Fri Jun 02 21:39:49 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\DSUBT_HD.LLB
+Fri Jun 02 21:39:49 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\ECON100T.llb
+Fri Jun 02 21:39:49 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\FBUS.llb
+Fri Jun 02 21:39:49 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\ISA.llb
+Fri Jun 02 21:39:49 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\JUMPER.LLB
+Fri Jun 02 21:39:49 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\LAYOUT.llb
+Fri Jun 02 21:39:49 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\LCON100T.llb
+Fri Jun 02 21:39:49 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\PC104.llb
+Fri Jun 02 21:39:49 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\PCI.llb
+Fri Jun 02 21:39:49 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\PCON100T.llb
+Fri Jun 02 21:39:49 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\PCON156T.llb
+Fri Jun 02 21:39:49 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\PGA.llb
+Fri Jun 02 21:39:50 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\PLCC.llb
+Fri Jun 02 21:39:50 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\QUAD.llb
+Fri Jun 02 21:39:50 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\QUADB.llb
+Fri Jun 02 21:39:50 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\RELAY.llb
+Fri Jun 02 21:39:50 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\RF.llb
+Fri Jun 02 21:39:50 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\SBUS.llb
+Fri Jun 02 21:39:50 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\SIMM050F.llb
+Fri Jun 02 21:39:50 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\SIMM050T.llb
+Fri Jun 02 21:39:50 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\SIMM100F.llb
+Fri Jun 02 21:39:50 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\SIMM100T.llb
+Fri Jun 02 21:39:50 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\SIP.llb
+Fri Jun 02 21:39:50 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\SM.llb
+Fri Jun 02 21:39:50 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\SOG.llb
+Fri Jun 02 21:39:50 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\SOJ.llb
+Fri Jun 02 21:39:50 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\STIFF.llb
+Fri Jun 02 21:39:50 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\TELE.llb
+Fri Jun 02 21:39:50 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\TM_AXIAL.llb
+Fri Jun 02 21:39:50 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\TM_CAP_P.llb
+Fri Jun 02 21:39:50 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\TM_CYLND.llb
+Fri Jun 02 21:39:50 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\TM_DIODE.llb
+Fri Jun 02 21:39:50 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\TM_DISC.llb
+Fri Jun 02 21:39:50 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\TM_RAD.llb
+Fri Jun 02 21:39:50 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\TO.llb
+Fri Jun 02 21:39:50 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\TRAINING.LLB
+Fri Jun 02 21:39:50 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\VRES.llb
+Fri Jun 02 21:39:50 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\WCON100T.llb
+Fri Jun 02 21:39:50 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\XT.llb
+Fri Jun 02 21:39:50 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\ZIGZAG.llb
+Fri Jun 02 21:39:50 Loaded file E:\MEUS DOCUMENTOS\PROJETOS\GRAVADOR PIC\GRAVADOR PIC.MAX
+Fri Jun 02 21:39:50 Saved as file E:\MEUS DOCUMENTOS\PROJETOS\GRAVADOR PIC\GRAVADOR PIC.MAX
+Fri Jun 02 21:39:51 Loaded file E:\MEUS DOCUMENTOS\PROJETOS\GRAVADOR PIC\GRAVADOR PIC.MAX
+Fri Jun 02 21:40:48 Saved as file E:\MEUS DOCUMENTOS\PROJETOS\GRAVADOR PIC\GRAVADOR PIC.MAX
+Fri Jun 02 21:40:48 Saved as file BACKUP1.MAX
+Fri Jun 02 21:40:48 Saved as file E:\MEUS DOCUMENTOS\PROJETOS\GRAVADOR PIC\GRAVADOR PIC.MAX
+Fri Jun 02 21:40:48 UserDiv from Layout.INI for AutoECO: 60
+Fri Jun 02 21:40:48 Loaded file E:\MEUS DOCUMENTOS\PROJETOS\GRAVADOR PIC\GRAVADOR PIC.MAX
+Fri Jun 02 21:40:48 Loaded file E:\MEUS DOCUMENTOS\PROJETOS\TEMPLATE\BIBLIOTECA.LLB
+Fri Jun 02 21:40:48 Loaded file E:\MEUS DOCUMENTOS\TEMPLATE\BIBLIOTECA.LLB
+Fri Jun 02 21:40:48 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\BCON100T.llb
+Fri Jun 02 21:40:48 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\BCON156T.llb
+Fri Jun 02 21:40:49 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\BGA.llb
+Fri Jun 02 21:40:49 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\CLCC.llb
+Fri Jun 02 21:40:49 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\DCON050T.llb
+Fri Jun 02 21:40:49 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\DCON085T.llb
+Fri Jun 02 21:40:49 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\DIMM050F.llb
+Fri Jun 02 21:40:49 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\DIMM050T.llb
+Fri Jun 02 21:40:49 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\DIN.llb
+Fri Jun 02 21:40:49 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\DIP100B.llb
+Fri Jun 02 21:40:49 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\DIP100T.llb
+Fri Jun 02 21:40:49 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\DSUBT.llb
+Fri Jun 02 21:40:49 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\DSUBT_HD.LLB
+Fri Jun 02 21:40:49 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\ECON100T.llb
+Fri Jun 02 21:40:49 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\FBUS.llb
+Fri Jun 02 21:40:49 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\ISA.llb
+Fri Jun 02 21:40:49 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\JUMPER.LLB
+Fri Jun 02 21:40:49 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\LAYOUT.llb
+Fri Jun 02 21:40:49 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\LCON100T.llb
+Fri Jun 02 21:40:49 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\PC104.llb
+Fri Jun 02 21:40:49 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\PCI.llb
+Fri Jun 02 21:40:49 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\PCON100T.llb
+Fri Jun 02 21:40:49 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\PCON156T.llb
+Fri Jun 02 21:40:49 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\PGA.llb
+Fri Jun 02 21:40:49 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\PLCC.llb
+Fri Jun 02 21:40:49 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\QUAD.llb
+Fri Jun 02 21:40:49 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\QUADB.llb
+Fri Jun 02 21:40:49 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\RELAY.llb
+Fri Jun 02 21:40:49 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\RF.llb
+Fri Jun 02 21:40:49 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\SBUS.llb
+Fri Jun 02 21:40:49 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\SIMM050F.llb
+Fri Jun 02 21:40:49 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\SIMM050T.llb
+Fri Jun 02 21:40:49 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\SIMM100F.llb
+Fri Jun 02 21:40:49 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\SIMM100T.llb
+Fri Jun 02 21:40:49 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\SIP.llb
+Fri Jun 02 21:40:49 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\SM.llb
+Fri Jun 02 21:40:49 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\SOG.llb
+Fri Jun 02 21:40:49 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\SOJ.llb
+Fri Jun 02 21:40:49 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\STIFF.llb
+Fri Jun 02 21:40:49 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\TELE.llb
+Fri Jun 02 21:40:49 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\TM_AXIAL.llb
+Fri Jun 02 21:40:49 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\TM_CAP_P.llb
+Fri Jun 02 21:40:49 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\TM_CYLND.llb
+Fri Jun 02 21:40:49 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\TM_DIODE.llb
+Fri Jun 02 21:40:49 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\TM_DISC.llb
+Fri Jun 02 21:40:49 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\TM_RAD.llb
+Fri Jun 02 21:40:49 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\TO.llb
+Fri Jun 02 21:40:49 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\TRAINING.LLB
+Fri Jun 02 21:40:49 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\VRES.llb
+Fri Jun 02 21:40:49 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\WCON100T.llb
+Fri Jun 02 21:40:49 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\XT.llb
+Fri Jun 02 21:40:49 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\ZIGZAG.llb
+Fri Jun 02 21:40:49 Loaded file E:\MEUS DOCUMENTOS\PROJETOS\TEMPLATE\BIBLIOTECA.LLB
+Fri Jun 02 21:40:50 Loaded file E:\MEUS DOCUMENTOS\PROJETOS\TEMPLATE\BIBLIOTECA.LLB
+Fri Jun 02 21:40:50 Loaded file E:\MEUS DOCUMENTOS\PROJETOS\TEMPLATE\BIBLIOTECA.LLB
+Fri Jun 02 21:40:50 Loaded file E:\MEUS DOCUMENTOS\PROJETOS\TEMPLATE\BIBLIOTECA.LLB
+Fri Jun 02 21:40:50 Loaded file E:\MEUS DOCUMENTOS\PROJETOS\TEMPLATE\BIBLIOTECA.LLB
+Fri Jun 02 21:40:50 Loaded file E:\MEUS DOCUMENTOS\PROJETOS\TEMPLATE\BIBLIOTECA.LLB
+Fri Jun 02 21:40:50 Loaded file E:\MEUS DOCUMENTOS\PROJETOS\TEMPLATE\BIBLIOTECA.LLB
+Fri Jun 02 21:40:50 Loaded file E:\MEUS DOCUMENTOS\PROJETOS\TEMPLATE\BIBLIOTECA.LLB
+Fri Jun 02 21:42:00 Loaded file D:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Fri Jun 02 21:42:00 Loaded file D:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Fri Jun 02 21:42:06 Loaded file E:\MEUS DOCUMENTOS\PROJETOS\GRAVADOR PIC\GRAVADOR PIC.MAX
+Fri Jun 02 21:42:06 Saved as file E:\MEUS DOCUMENTOS\PROJETOS\GRAVADOR PIC\GRAVADOR PIC.MAX
+Fri Jun 02 21:42:06 Loaded file E:\MEUS DOCUMENTOS\PROJETOS\GRAVADOR PIC\GRAVADOR PIC.MAX
+Fri Jun 02 21:43:19 Saved as file E:\MEUS DOCUMENTOS\PROJETOS\GRAVADOR PIC\GRAVADOR PIC.MAX
+Fri Jun 02 21:43:19 Saved as file BACKUP1.MAX
+Fri Jun 02 21:43:19 Saved as file E:\MEUS DOCUMENTOS\PROJETOS\GRAVADOR PIC\GRAVADOR PIC.MAX
+Fri Jun 02 21:43:19 UserDiv from Layout.INI for AutoECO: 60
+Fri Jun 02 21:43:19 Loaded file E:\MEUS DOCUMENTOS\PROJETOS\GRAVADOR PIC\GRAVADOR PIC.MAX
+Fri Jun 02 21:43:19 Loaded file E:\MEUS DOCUMENTOS\PROJETOS\TEMPLATE\BIBLIOTECA.LLB
+Fri Jun 02 21:43:19 Loaded file E:\MEUS DOCUMENTOS\TEMPLATE\BIBLIOTECA.LLB
+Fri Jun 02 21:43:19 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\BCON100T.llb
+Fri Jun 02 21:43:19 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\BCON156T.llb
+Fri Jun 02 21:43:19 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\BGA.llb
+Fri Jun 02 21:43:19 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\CLCC.llb
+Fri Jun 02 21:43:19 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\DCON050T.llb
+Fri Jun 02 21:43:19 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\DCON085T.llb
+Fri Jun 02 21:43:19 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\DIMM050F.llb
+Fri Jun 02 21:43:19 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\DIMM050T.llb
+Fri Jun 02 21:43:19 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\DIN.llb
+Fri Jun 02 21:43:19 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\DIP100B.llb
+Fri Jun 02 21:43:19 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\DIP100T.llb
+Fri Jun 02 21:43:19 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\DSUBT.llb
+Fri Jun 02 21:43:19 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\DSUBT_HD.LLB
+Fri Jun 02 21:43:19 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\ECON100T.llb
+Fri Jun 02 21:43:19 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\FBUS.llb
+Fri Jun 02 21:43:19 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\ISA.llb
+Fri Jun 02 21:43:19 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\JUMPER.LLB
+Fri Jun 02 21:43:19 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\LAYOUT.llb
+Fri Jun 02 21:43:20 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\LCON100T.llb
+Fri Jun 02 21:43:20 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\PC104.llb
+Fri Jun 02 21:43:20 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\PCI.llb
+Fri Jun 02 21:43:20 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\PCON100T.llb
+Fri Jun 02 21:43:20 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\PCON156T.llb
+Fri Jun 02 21:43:20 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\PGA.llb
+Fri Jun 02 21:43:20 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\PLCC.llb
+Fri Jun 02 21:43:20 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\QUAD.llb
+Fri Jun 02 21:43:20 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\QUADB.llb
+Fri Jun 02 21:43:20 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\RELAY.llb
+Fri Jun 02 21:43:20 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\RF.llb
+Fri Jun 02 21:43:20 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\SBUS.llb
+Fri Jun 02 21:43:20 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\SIMM050F.llb
+Fri Jun 02 21:43:20 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\SIMM050T.llb
+Fri Jun 02 21:43:20 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\SIMM100F.llb
+Fri Jun 02 21:43:20 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\SIMM100T.llb
+Fri Jun 02 21:43:20 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\SIP.llb
+Fri Jun 02 21:43:20 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\SM.llb
+Fri Jun 02 21:43:20 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\SOG.llb
+Fri Jun 02 21:43:20 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\SOJ.llb
+Fri Jun 02 21:43:20 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\STIFF.llb
+Fri Jun 02 21:43:20 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\TELE.llb
+Fri Jun 02 21:43:20 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\TM_AXIAL.llb
+Fri Jun 02 21:43:20 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\TM_CAP_P.llb
+Fri Jun 02 21:43:20 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\TM_CYLND.llb
+Fri Jun 02 21:43:20 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\TM_DIODE.llb
+Fri Jun 02 21:43:20 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\TM_DISC.llb
+Fri Jun 02 21:43:20 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\TM_RAD.llb
+Fri Jun 02 21:43:20 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\TO.llb
+Fri Jun 02 21:43:20 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\TRAINING.LLB
+Fri Jun 02 21:43:20 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\VRES.llb
+Fri Jun 02 21:43:20 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\WCON100T.llb
+Fri Jun 02 21:43:20 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\XT.llb
+Fri Jun 02 21:43:20 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\ZIGZAG.llb
+Fri Jun 02 21:43:20 Loaded file E:\MEUS DOCUMENTOS\PROJETOS\TEMPLATE\BIBLIOTECA.LLB
+Fri Jun 02 21:43:20 Loaded file E:\MEUS DOCUMENTOS\PROJETOS\TEMPLATE\BIBLIOTECA.LLB
+Fri Jun 02 21:43:20 Loaded file E:\MEUS DOCUMENTOS\PROJETOS\TEMPLATE\BIBLIOTECA.LLB
+Fri Jun 02 21:43:20 Loaded file E:\MEUS DOCUMENTOS\PROJETOS\TEMPLATE\BIBLIOTECA.LLB
+Fri Jun 02 21:43:20 Loaded file E:\MEUS DOCUMENTOS\PROJETOS\TEMPLATE\BIBLIOTECA.LLB
+Fri Jun 02 21:43:20 Loaded file E:\MEUS DOCUMENTOS\PROJETOS\TEMPLATE\BIBLIOTECA.LLB
+Fri Jun 02 21:43:20 Loaded file E:\MEUS DOCUMENTOS\PROJETOS\TEMPLATE\BIBLIOTECA.LLB
+Fri Jun 02 21:43:20 Loaded file E:\MEUS DOCUMENTOS\PROJETOS\TEMPLATE\BIBLIOTECA.LLB
+Fri Jun 02 21:43:21 Saved as file E:\MEUS DOCUMENTOS\PROJETOS\GRAVADOR PIC\GRAVADOR PIC.MAX
+Fri Jun 02 21:43:21 Loaded file E:\MEUS DOCUMENTOS\PROJETOS\GRAVADOR PIC\GRAVADOR PIC.MAX
+Fri Jun 02 21:44:12 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 21:44:12 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 21:44:12 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 21:44:12 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 21:44:14 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 21:44:19 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\BCON100T.llb
+Fri Jun 02 21:44:20 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 21:44:20 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 21:44:23 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 21:44:23 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 21:44:24 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\BCON156T.llb
+Fri Jun 02 21:44:25 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 21:44:26 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 21:44:26 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 21:44:27 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\BGA.llb
+Fri Jun 02 21:44:28 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 21:44:28 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 21:44:29 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 21:44:30 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 21:44:32 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 21:44:33 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\CLCC.llb
+Fri Jun 02 21:44:34 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 21:44:36 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 21:44:37 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\DCON050T.llb
+Fri Jun 02 21:44:38 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 21:44:40 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 21:44:41 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 21:44:41 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 21:44:44 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 21:44:45 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 21:44:46 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 21:44:46 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 21:44:46 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 21:44:46 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 21:44:46 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 21:44:46 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 21:44:46 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 21:44:46 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 21:44:46 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 21:44:46 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 21:44:46 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 21:44:46 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 21:44:47 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 21:44:47 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 21:44:47 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 21:44:47 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 21:44:47 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 21:44:47 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 21:44:47 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 21:44:48 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 21:44:48 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 21:44:49 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 21:44:49 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 21:44:49 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 21:44:49 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 21:44:50 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 21:44:50 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 21:44:52 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 21:44:53 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 21:44:53 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 21:44:53 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 21:44:53 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 21:44:53 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 21:44:53 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 21:44:53 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 21:44:53 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 21:44:53 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 21:44:54 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 21:44:54 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 21:44:54 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 21:44:54 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 21:44:54 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 21:44:54 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 21:44:54 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 21:44:54 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 21:44:54 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 21:44:55 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 21:44:55 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 21:44:55 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 21:44:56 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 21:44:56 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 21:44:56 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 21:44:57 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 21:44:57 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 21:44:57 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 21:44:57 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 21:44:58 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 21:44:58 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 21:44:58 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 21:44:59 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 21:44:59 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 21:44:59 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 21:44:59 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 21:44:59 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 21:44:59 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 21:44:59 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 21:44:59 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 21:44:59 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 21:45:00 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 21:45:00 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 21:45:00 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 21:45:01 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 21:45:01 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 21:45:01 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 21:45:02 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 21:45:02 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 21:45:04 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\DCON085T.llb
+Fri Jun 02 21:45:04 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 21:45:06 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 21:45:08 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\DIMM050F.llb
+Fri Jun 02 21:45:09 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 21:45:09 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 21:45:10 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 21:45:10 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 21:45:10 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\DIMM050T.llb
+Fri Jun 02 21:45:11 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 21:45:11 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 21:45:12 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 21:45:12 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 21:45:13 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 21:45:14 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\DIN.llb
+Fri Jun 02 21:45:15 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 21:45:15 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 21:45:16 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 21:45:17 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 21:45:18 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 21:45:18 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 21:45:18 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 21:45:18 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 21:45:18 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 21:45:18 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 21:45:18 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 21:45:18 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 21:45:18 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 21:45:18 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 21:45:18 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 21:45:18 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 21:45:19 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 21:45:19 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 21:45:19 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 21:45:20 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 21:45:20 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 21:45:20 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 21:45:21 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 21:45:21 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 21:45:21 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 21:45:21 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 21:45:22 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 21:45:22 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 21:45:22 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 21:45:22 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 21:45:23 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 21:45:23 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 21:45:23 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 21:45:23 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 21:45:24 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 21:45:24 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 21:45:24 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 21:45:24 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 21:45:25 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 21:45:25 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 21:45:26 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 21:45:27 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 21:45:27 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 21:45:27 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 21:45:28 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 21:45:28 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 21:45:28 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 21:45:28 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 21:45:29 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 21:45:29 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 21:45:29 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 21:45:30 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 21:45:30 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 21:45:33 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 21:45:33 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 21:45:34 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 21:45:34 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 21:45:35 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 21:45:35 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 21:45:35 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 21:45:36 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 21:45:36 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 21:45:37 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 21:45:39 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\DIP100B.llb
+Fri Jun 02 21:45:40 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 21:45:41 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 21:45:43 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\DIP100T.llb
+Fri Jun 02 21:45:44 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 21:45:45 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 21:45:45 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 21:45:46 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\DSUBT.llb
+Fri Jun 02 21:45:46 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 21:45:47 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 21:45:48 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 21:45:48 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 21:45:48 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 21:45:49 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 21:45:49 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 21:45:49 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 21:45:49 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 21:45:50 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 21:45:50 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 21:45:51 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 21:45:51 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 21:45:51 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 21:45:51 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 21:45:52 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 21:45:52 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 21:45:52 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 21:45:53 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 21:45:53 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 21:45:54 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 21:45:54 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 21:45:54 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 21:45:54 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 21:45:55 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 21:45:56 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 21:45:56 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 21:45:56 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 21:45:56 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 21:45:57 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 21:48:52 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 21:48:56 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\DSUBT_HD.LLB
+Fri Jun 02 21:48:57 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 21:48:57 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 21:48:58 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 21:48:58 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 21:49:00 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 21:49:01 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\DSUBT_HD.LLB
+Fri Jun 02 21:49:02 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 21:49:02 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 21:49:06 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 21:49:07 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 21:49:07 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\ECON100T.llb
+Fri Jun 02 21:49:08 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 21:49:09 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 21:49:09 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 21:49:09 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 21:49:10 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 21:49:10 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 21:49:11 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\FBUS.llb
+Fri Jun 02 21:49:11 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 21:49:12 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 21:49:12 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 21:49:13 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\ISA.llb
+Fri Jun 02 21:49:14 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 21:49:15 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 21:49:15 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\JUMPER.LLB
+Fri Jun 02 21:49:17 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\LCON100T.llb
+Fri Jun 02 21:49:17 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\LAYOUT.llb
+Fri Jun 02 21:49:18 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 21:49:18 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 21:49:19 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 21:49:20 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 21:49:21 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 21:49:23 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 21:49:24 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 21:49:25 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 21:49:25 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 21:49:25 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 21:49:25 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 21:49:25 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 21:49:26 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 21:49:26 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 21:49:26 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 21:49:26 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 21:49:26 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 21:49:27 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 21:49:27 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 21:49:27 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 21:49:27 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 21:49:27 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 21:49:28 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 21:49:28 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 21:49:28 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 21:49:30 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\LCON100T.llb
+Fri Jun 02 21:49:31 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 21:49:31 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 21:49:33 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 21:49:34 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 21:49:37 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\PC104.llb
+Fri Jun 02 21:49:37 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 21:49:38 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 21:49:39 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\PCI.llb
+Fri Jun 02 21:49:39 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 21:49:41 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\PCON100T.llb
+Fri Jun 02 21:49:41 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 21:49:42 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 21:49:43 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 21:49:45 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 21:49:48 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 21:49:48 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 21:49:49 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 21:49:49 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 21:49:50 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 21:49:51 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 21:49:52 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 21:49:53 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\PCON156T.llb
+Fri Jun 02 21:49:53 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 21:49:54 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 21:49:54 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 21:49:55 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 21:49:56 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 21:49:57 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\PGA.llb
+Fri Jun 02 21:49:57 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 21:49:58 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 21:49:59 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 21:50:00 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 21:50:01 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\PLCC.llb
+Fri Jun 02 21:50:01 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\QUAD.llb
+Fri Jun 02 21:50:03 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\PLCC.llb
+Fri Jun 02 21:50:06 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 21:50:07 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 21:50:09 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 21:50:11 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 21:50:12 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 21:50:13 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\QUAD.llb
+Fri Jun 02 21:50:21 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 21:50:22 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 21:50:23 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\QUADB.llb
+Fri Jun 02 21:50:23 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\RELAY.llb
+Fri Jun 02 21:50:24 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 21:50:25 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 21:50:32 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 21:50:34 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 21:50:35 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\RF.llb
+Fri Jun 02 21:50:36 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 21:50:36 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 21:50:38 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 21:50:40 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 21:50:40 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 21:50:40 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 21:50:41 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 21:50:41 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 21:50:41 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 21:50:41 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 21:50:41 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 21:50:42 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 21:50:45 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\SBUS.llb
+Fri Jun 02 21:50:46 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 21:50:46 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 21:50:47 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\SIMM050F.llb
+Fri Jun 02 21:50:48 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 21:50:48 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 21:50:50 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\SIMM050T.llb
+Fri Jun 02 21:50:50 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 21:50:51 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 21:50:51 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 21:50:53 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 21:50:54 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 21:50:55 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\SIMM100F.llb
+Fri Jun 02 21:50:56 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 21:50:57 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 21:50:58 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\SIMM100T.llb
+Fri Jun 02 21:50:59 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 21:50:59 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 21:51:00 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\SIP.llb
+Fri Jun 02 21:51:00 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 21:51:01 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 21:51:01 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 21:51:02 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\SM.llb
+Fri Jun 02 21:51:03 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 21:51:04 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\SOG.llb
+Fri Jun 02 21:51:05 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 21:51:06 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\SOJ.llb
+Fri Jun 02 21:51:07 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\STIFF.llb
+Fri Jun 02 21:51:07 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\TELE.llb
+Fri Jun 02 21:51:08 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 21:51:09 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 21:51:09 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 21:51:10 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 21:51:10 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 21:51:10 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 21:51:10 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 21:51:10 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 21:51:11 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 21:51:11 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 21:51:11 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 21:51:11 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 21:51:11 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 21:51:12 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 21:51:12 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 21:51:12 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 21:51:12 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 21:51:12 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 21:51:13 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 21:51:13 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 21:51:14 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 21:51:15 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 21:51:29 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 21:51:51 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 21:51:51 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 21:51:52 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 21:51:52 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 21:52:02 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\TELE.llb
+Fri Jun 02 21:52:03 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 21:52:04 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 21:52:04 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 21:52:05 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 21:52:05 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 21:52:05 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 21:52:05 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 21:52:05 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 21:52:06 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 21:52:06 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 21:52:06 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 21:52:06 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 21:52:07 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 21:52:07 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 21:52:07 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 21:52:07 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 21:52:07 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 21:52:08 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 21:52:08 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 21:52:08 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 21:52:08 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 21:52:09 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 21:52:09 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 21:52:09 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 21:52:10 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 21:52:10 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 21:52:12 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 21:52:12 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 21:52:13 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 21:52:14 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 21:52:14 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 21:52:15 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 21:52:15 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 21:52:16 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 21:52:17 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 21:52:24 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 21:52:25 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 21:52:25 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 21:52:26 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 21:52:26 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 21:52:26 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 21:52:27 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 21:52:32 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 21:52:33 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 21:54:28 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 21:54:28 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 21:54:28 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 21:54:28 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 21:54:55 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 21:54:55 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 21:55:10 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\TELE.llb
+Fri Jun 02 21:55:11 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 21:55:13 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 21:55:13 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 21:55:14 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 21:55:14 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 21:55:14 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 21:55:15 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 21:55:15 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 21:55:15 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 21:55:16 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 21:55:16 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 21:55:16 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 21:55:16 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 21:55:17 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 21:55:17 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 21:55:17 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 21:55:18 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 21:55:19 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 21:55:20 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 21:55:26 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 21:55:28 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 21:55:30 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 21:55:31 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 21:55:31 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 21:55:32 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 21:55:32 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 21:55:32 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 21:55:33 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 21:55:33 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 21:55:34 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 21:58:21 Saved as file E:\MEUS DOCUMENTOS\PROJETOS\GRAVADOR PIC\GRAVADOR PIC.MAX
+Fri Jun 02 21:58:21 Saved as file BACKUP1.MAX
+Fri Jun 02 21:58:21 Saved as file E:\MEUS DOCUMENTOS\PROJETOS\GRAVADOR PIC\GRAVADOR PIC.MAX
+Fri Jun 02 21:58:22 UserDiv from Layout.INI for AutoECO: 60
+Fri Jun 02 21:58:22 Loaded file E:\MEUS DOCUMENTOS\PROJETOS\GRAVADOR PIC\GRAVADOR PIC.MAX
+Fri Jun 02 21:58:22 Loaded file E:\MEUS DOCUMENTOS\PROJETOS\TEMPLATE\BIBLIOTECA.LLB
+Fri Jun 02 21:58:22 Loaded file E:\MEUS DOCUMENTOS\TEMPLATE\BIBLIOTECA.LLB
+Fri Jun 02 21:58:22 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\BCON100T.llb
+Fri Jun 02 21:58:22 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\BCON156T.llb
+Fri Jun 02 21:58:22 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\BGA.llb
+Fri Jun 02 21:58:22 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\CLCC.llb
+Fri Jun 02 21:58:22 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\DCON050T.llb
+Fri Jun 02 21:58:22 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\DCON085T.llb
+Fri Jun 02 21:58:22 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\DIMM050F.llb
+Fri Jun 02 21:58:22 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\DIMM050T.llb
+Fri Jun 02 21:58:22 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\DIN.llb
+Fri Jun 02 21:58:22 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\DIP100B.llb
+Fri Jun 02 21:58:22 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\DIP100T.llb
+Fri Jun 02 21:58:22 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\DSUBT.llb
+Fri Jun 02 21:58:22 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\DSUBT_HD.LLB
+Fri Jun 02 21:58:22 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\ECON100T.llb
+Fri Jun 02 21:58:22 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\FBUS.llb
+Fri Jun 02 21:58:22 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\ISA.llb
+Fri Jun 02 21:58:22 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\JUMPER.LLB
+Fri Jun 02 21:58:22 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\LAYOUT.llb
+Fri Jun 02 21:58:23 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\LCON100T.llb
+Fri Jun 02 21:58:23 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\PC104.llb
+Fri Jun 02 21:58:23 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\PCI.llb
+Fri Jun 02 21:58:23 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\PCON100T.llb
+Fri Jun 02 21:58:23 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\PCON156T.llb
+Fri Jun 02 21:58:23 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\PGA.llb
+Fri Jun 02 21:58:23 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\PLCC.llb
+Fri Jun 02 21:58:23 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\QUAD.llb
+Fri Jun 02 21:58:23 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\QUADB.llb
+Fri Jun 02 21:58:23 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\RELAY.llb
+Fri Jun 02 21:58:23 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\RF.llb
+Fri Jun 02 21:58:23 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\SBUS.llb
+Fri Jun 02 21:58:23 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\SIMM050F.llb
+Fri Jun 02 21:58:23 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\SIMM050T.llb
+Fri Jun 02 21:58:23 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\SIMM100F.llb
+Fri Jun 02 21:58:23 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\SIMM100T.llb
+Fri Jun 02 21:58:23 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\SIP.llb
+Fri Jun 02 21:58:23 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\SM.llb
+Fri Jun 02 21:58:23 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\SOG.llb
+Fri Jun 02 21:58:23 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\SOJ.llb
+Fri Jun 02 21:58:23 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\STIFF.llb
+Fri Jun 02 21:58:23 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\TELE.llb
+Fri Jun 02 21:58:23 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\TM_AXIAL.llb
+Fri Jun 02 21:58:23 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\TM_CAP_P.llb
+Fri Jun 02 21:58:23 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\TM_CYLND.llb
+Fri Jun 02 21:58:23 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\TM_DIODE.llb
+Fri Jun 02 21:58:23 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\TM_DISC.llb
+Fri Jun 02 21:58:23 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\TM_RAD.llb
+Fri Jun 02 21:58:23 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\TO.llb
+Fri Jun 02 21:58:23 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\TRAINING.LLB
+Fri Jun 02 21:58:23 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\VRES.llb
+Fri Jun 02 21:58:23 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\WCON100T.llb
+Fri Jun 02 21:58:23 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\XT.llb
+Fri Jun 02 21:58:23 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\ZIGZAG.llb
+Fri Jun 02 21:58:23 Loaded file E:\MEUS DOCUMENTOS\PROJETOS\TEMPLATE\BIBLIOTECA.LLB
+Fri Jun 02 21:58:23 Loaded file E:\MEUS DOCUMENTOS\PROJETOS\TEMPLATE\BIBLIOTECA.LLB
+Fri Jun 02 21:58:23 Loaded file E:\MEUS DOCUMENTOS\PROJETOS\TEMPLATE\BIBLIOTECA.LLB
+Fri Jun 02 21:58:23 Loaded file E:\MEUS DOCUMENTOS\PROJETOS\TEMPLATE\BIBLIOTECA.LLB
+Fri Jun 02 21:58:23 Loaded file E:\MEUS DOCUMENTOS\PROJETOS\TEMPLATE\BIBLIOTECA.LLB
+Fri Jun 02 21:58:23 Loaded file E:\MEUS DOCUMENTOS\PROJETOS\TEMPLATE\BIBLIOTECA.LLB
+Fri Jun 02 21:58:24 Saved as file E:\MEUS DOCUMENTOS\PROJETOS\GRAVADOR PIC\GRAVADOR PIC.MAX
+Fri Jun 02 21:58:24 Loaded file E:\MEUS DOCUMENTOS\PROJETOS\GRAVADOR PIC\GRAVADOR PIC.MAX
+Fri Jun 02 22:03:45 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 22:03:45 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 22:15:53 Saved as file E:\MEUS DOCUMENTOS\PROJETOS\GRAVADOR PIC\GRAVADOR PIC.MAX
+Fri Jun 02 22:15:53 Saved as file BACKUP1.MAX
+Fri Jun 02 22:15:53 Saved as file E:\MEUS DOCUMENTOS\PROJETOS\GRAVADOR PIC\GRAVADOR PIC.MAX
+Fri Jun 02 22:15:53 UserDiv from Layout.INI for AutoECO: 60
+Fri Jun 02 22:15:53 Loaded file E:\MEUS DOCUMENTOS\PROJETOS\GRAVADOR PIC\GRAVADOR PIC.MAX
+Fri Jun 02 22:15:53 Loaded file E:\MEUS DOCUMENTOS\PROJETOS\TEMPLATE\BIBLIOTECA.LLB
+Fri Jun 02 22:15:53 Loaded file E:\MEUS DOCUMENTOS\TEMPLATE\BIBLIOTECA.LLB
+Fri Jun 02 22:15:53 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\BCON100T.llb
+Fri Jun 02 22:15:53 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\BCON156T.llb
+Fri Jun 02 22:15:54 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\BGA.llb
+Fri Jun 02 22:15:54 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\CLCC.llb
+Fri Jun 02 22:15:54 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\DCON050T.llb
+Fri Jun 02 22:15:54 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\DCON085T.llb
+Fri Jun 02 22:15:54 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\DIMM050F.llb
+Fri Jun 02 22:15:54 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\DIMM050T.llb
+Fri Jun 02 22:15:54 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\DIN.llb
+Fri Jun 02 22:15:54 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\DIP100B.llb
+Fri Jun 02 22:15:54 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\DIP100T.llb
+Fri Jun 02 22:15:54 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\DSUBT.llb
+Fri Jun 02 22:15:54 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\DSUBT_HD.LLB
+Fri Jun 02 22:15:54 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\ECON100T.llb
+Fri Jun 02 22:15:54 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\FBUS.llb
+Fri Jun 02 22:15:54 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\ISA.llb
+Fri Jun 02 22:15:54 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\JUMPER.LLB
+Fri Jun 02 22:15:54 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\LAYOUT.llb
+Fri Jun 02 22:15:54 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\LCON100T.llb
+Fri Jun 02 22:15:54 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\PC104.llb
+Fri Jun 02 22:15:54 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\PCI.llb
+Fri Jun 02 22:15:54 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\PCON100T.llb
+Fri Jun 02 22:15:54 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\PCON156T.llb
+Fri Jun 02 22:15:54 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\PGA.llb
+Fri Jun 02 22:15:54 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\PLCC.llb
+Fri Jun 02 22:15:54 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\QUAD.llb
+Fri Jun 02 22:15:54 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\QUADB.llb
+Fri Jun 02 22:15:54 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\RELAY.llb
+Fri Jun 02 22:15:54 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\RF.llb
+Fri Jun 02 22:15:54 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\SBUS.llb
+Fri Jun 02 22:15:54 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\SIMM050F.llb
+Fri Jun 02 22:15:54 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\SIMM050T.llb
+Fri Jun 02 22:15:54 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\SIMM100F.llb
+Fri Jun 02 22:15:54 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\SIMM100T.llb
+Fri Jun 02 22:15:54 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\SIP.llb
+Fri Jun 02 22:15:54 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\SM.llb
+Fri Jun 02 22:15:54 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\SOG.llb
+Fri Jun 02 22:15:54 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\SOJ.llb
+Fri Jun 02 22:15:54 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\STIFF.llb
+Fri Jun 02 22:15:54 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\TELE.llb
+Fri Jun 02 22:15:54 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\TM_AXIAL.llb
+Fri Jun 02 22:15:54 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\TM_CAP_P.llb
+Fri Jun 02 22:15:54 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\TM_CYLND.llb
+Fri Jun 02 22:15:54 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\TM_DIODE.llb
+Fri Jun 02 22:15:54 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\TM_DISC.llb
+Fri Jun 02 22:15:54 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\TM_RAD.llb
+Fri Jun 02 22:15:54 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\TO.llb
+Fri Jun 02 22:15:54 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\TRAINING.LLB
+Fri Jun 02 22:15:54 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\VRES.llb
+Fri Jun 02 22:15:54 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\WCON100T.llb
+Fri Jun 02 22:15:54 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\XT.llb
+Fri Jun 02 22:15:54 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\ZIGZAG.llb
+Fri Jun 02 22:15:54 Loaded file E:\MEUS DOCUMENTOS\PROJETOS\TEMPLATE\BIBLIOTECA.LLB
+Fri Jun 02 22:15:54 Loaded file E:\MEUS DOCUMENTOS\PROJETOS\TEMPLATE\BIBLIOTECA.LLB
+Fri Jun 02 22:15:55 Loaded file E:\MEUS DOCUMENTOS\PROJETOS\TEMPLATE\BIBLIOTECA.LLB
+Fri Jun 02 22:15:55 Loaded file E:\MEUS DOCUMENTOS\PROJETOS\TEMPLATE\BIBLIOTECA.LLB
+Fri Jun 02 22:15:55 Loaded file E:\MEUS DOCUMENTOS\PROJETOS\TEMPLATE\BIBLIOTECA.LLB
+Fri Jun 02 22:15:55 Loaded file E:\MEUS DOCUMENTOS\PROJETOS\TEMPLATE\BIBLIOTECA.LLB
+Fri Jun 02 22:15:55 Saved as file E:\MEUS DOCUMENTOS\PROJETOS\GRAVADOR PIC\GRAVADOR PIC.MAX
+Fri Jun 02 22:15:55 Loaded file E:\MEUS DOCUMENTOS\PROJETOS\GRAVADOR PIC\GRAVADOR PIC.MAX
+Fri Jun 02 22:25:59 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 22:25:59 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 22:26:29 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 22:26:29 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 22:26:33 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\DIN.llb
+Fri Jun 02 22:26:34 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 22:26:35 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 22:26:39 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\PCI.llb
+Fri Jun 02 22:26:40 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 22:26:41 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\PLCC.llb
+Fri Jun 02 22:26:44 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\SIMM100F.llb
+Fri Jun 02 22:26:45 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 22:26:46 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 22:26:46 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\SOG.llb
+Fri Jun 02 22:26:47 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\SOJ.llb
+Fri Jun 02 22:26:49 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\SOG.llb
+Fri Jun 02 22:26:49 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\SM.llb
+Fri Jun 02 22:26:50 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\SIP.llb
+Fri Jun 02 22:26:50 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\SIMM100T.llb
+Fri Jun 02 22:26:57 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\DIMM050F.llb
+Fri Jun 02 22:26:57 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 22:26:58 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 22:26:59 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\DIMM050T.llb
+Fri Jun 02 22:26:59 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\DIN.llb
+Fri Jun 02 22:27:00 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 22:27:00 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 22:27:01 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 22:27:02 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\DIP100B.llb
+Fri Jun 02 22:27:02 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 22:27:03 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 22:27:04 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\DIP100T.llb
+Fri Jun 02 22:27:05 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 22:27:40 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 22:27:51 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 22:27:51 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 22:27:51 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 22:27:51 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 22:27:52 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 22:27:52 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 22:27:52 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 22:27:52 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 22:27:52 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 22:27:52 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 22:27:52 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 22:27:53 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 22:27:54 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 22:27:54 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 22:27:54 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 22:27:54 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 22:27:54 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 22:27:54 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 22:27:54 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 22:27:54 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 22:27:54 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 22:27:54 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 22:27:54 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 22:27:54 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 22:27:54 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 22:27:54 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 22:27:54 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 22:27:54 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 22:27:54 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 22:27:54 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 22:27:54 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 22:27:55 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 22:27:56 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 22:27:56 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 22:27:56 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 22:27:56 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 22:27:56 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 22:27:56 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 22:27:56 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 22:27:56 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 22:27:56 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 22:27:57 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 22:27:57 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 22:27:57 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 22:27:57 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 22:27:57 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 22:27:57 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 22:27:57 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 22:27:57 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 22:27:57 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 22:27:57 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 22:27:57 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 22:27:57 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 22:27:57 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 22:27:57 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 22:27:57 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 22:27:58 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 22:27:58 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 22:27:58 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 22:27:58 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 22:27:58 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 22:27:58 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 22:27:58 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 22:27:58 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 22:27:58 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 22:27:58 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 22:27:59 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 22:27:59 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 22:28:00 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 22:28:00 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 22:28:01 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 22:28:02 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 22:28:02 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 22:28:03 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 22:28:09 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 22:28:10 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 22:28:11 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 22:28:11 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 22:28:11 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 22:28:12 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 22:28:13 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 22:29:05 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 22:29:05 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 22:29:13 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\DIP100T.llb
+Fri Jun 02 22:29:14 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 22:29:19 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 22:29:21 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 22:29:21 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 22:29:21 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 22:29:22 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 22:29:22 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 22:29:22 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 22:29:23 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 22:29:23 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 22:29:23 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 22:29:24 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 22:29:24 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 22:29:25 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 22:29:29 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 22:29:29 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 22:29:30 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 22:29:30 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 22:29:30 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 22:29:31 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 22:29:31 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 22:29:31 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 22:29:32 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 22:29:32 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 22:29:33 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 22:29:33 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 22:29:33 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 22:29:34 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 22:29:34 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 22:29:34 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 22:29:34 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 22:29:36 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 22:29:36 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 22:29:36 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 22:29:36 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 22:29:36 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 22:29:37 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 22:29:37 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 22:29:37 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 22:29:38 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 22:29:38 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 22:29:39 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 22:30:13 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 22:30:13 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 22:30:20 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\DIP100T.llb
+Fri Jun 02 22:30:26 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 22:30:27 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 22:30:27 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 22:30:27 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 22:30:28 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 22:30:29 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 22:30:29 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 22:30:29 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 22:30:30 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 22:30:31 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 22:30:31 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 22:30:31 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 22:30:32 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 22:30:32 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 22:30:33 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 22:30:33 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 22:30:34 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 22:30:36 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 22:30:36 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 22:30:37 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 22:33:02 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 22:33:02 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 22:33:05 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\DIP100T.llb
+Fri Jun 02 22:33:05 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 22:33:44 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 22:33:48 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 22:33:48 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 22:33:48 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 22:33:49 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 22:33:49 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 22:33:49 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 22:33:50 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 22:33:50 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 22:33:50 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 22:33:50 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 22:33:51 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 22:33:51 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 22:33:54 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 22:33:54 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Fri Jun 02 23:17:40 Saved as file E:\MEUS DOCUMENTOS\PROJETOS\GRAVADOR PIC\GRAVADOR PIC.MAX
+Fri Jun 02 23:18:15 Saved as file E:\MEUS DOCUMENTOS\PROJETOS\GRAVADOR PIC\GRAVADOR PIC.MAX
+Fri Jun 02 23:18:45 Saved as file E:\MEUS DOCUMENTOS\PROJETOS\GRAVADOR PIC\GRAVADOR PIC.MAX
+Fri Jun 02 23:30:51 Saved as file BACKUP1.MAX
+Fri Jun 02 23:40:52 Saved as file BACKUP1.MAX
+Fri Jun 02 23:50:51 Saved as file BACKUP1.MAX
+Sat Jun 03 00:00:52 Saved as file BACKUP1.MAX
+Tue Jun 06 19:18:13 Saved as file BACKUP1.MAX
+Tue Jun 06 19:18:13 Saved as file BACKUP1.MAX
+Tue Jun 06 19:18:13 Saved as file BACKUP1.MAX
+Tue Jun 06 19:18:13 Saved as file BACKUP1.MAX
+Tue Jun 06 19:18:13 Saved as file BACKUP1.MAX
+Tue Jun 06 19:18:13 Saved as file BACKUP1.MAX
+Tue Jun 06 19:18:13 No new connections routed.
+Tue Jun 06 19:18:13 Total is now 60 out of 62 (96%).
+Tue Jun 06 19:18:13 Saved as file SWEEP1.MAX
+Tue Jun 06 19:18:15 Saved as file BACKUP1.MAX
+Tue Jun 06 19:18:15 Saved as file BACKUP1.MAX
+Tue Jun 06 19:18:15 Saved as file BACKUP1.MAX
+Tue Jun 06 19:18:15 Saved as file BACKUP1.MAX
+Tue Jun 06 19:18:15 Saved as file BACKUP1.MAX
+Tue Jun 06 19:18:16 Saved as file BACKUP1.MAX
+Tue Jun 06 19:18:16 Routed 1 connections in 2 seconds.
+Tue Jun 06 19:18:16 Total is now 60 out of 62 (96%).
+Tue Jun 06 19:18:16 Saved as file SWEEP2.MAX
+Tue Jun 06 19:18:17 No new connections routed.
+Tue Jun 06 19:18:17 Total is now 60 out of 62 (96%).
+Tue Jun 06 19:18:17 Saved as file SWEEP3.MAX
+Tue Jun 06 19:18:19 Error code 5240.022 (2)
+Tue Jun 06 19:18:19 Saved as file Backup0.max
+Tue Jun 06 19:18:19 Windows which were open at time of error:
+Tue Jun 06 19:18:19 	ActiveWindow: &Route
+Tue Jun 06 19:18:19 	Icon: &Components
+Tue Jun 06 19:18:19 	Icon: &Nets
+Tue Jun 06 19:18:19 	Icon: Post Proces&s
+Tue Jun 06 19:18:19 End-of-list
+Tue Jun 06 19:18:19 Loaded file BACKUP0.MAX
+Tue Jun 06 19:18:22 Error code 5240.022 (2)
+Tue Jun 06 19:18:22 Saved as file Backup0.max
+Tue Jun 06 19:18:22 Windows which were open at time of error:
+Tue Jun 06 19:18:22 	ActiveWindow: &Route
+Tue Jun 06 19:18:22 	Icon: &Components
+Tue Jun 06 19:18:22 	Icon: &Nets
+Tue Jun 06 19:18:22 	Icon: Post Proces&s
+Tue Jun 06 19:18:22 End-of-list
+Tue Jun 06 19:18:22 Loaded file BACKUP0.MAX
+Tue Jun 06 19:18:24 Error code 5240.022 (2)
+Tue Jun 06 19:18:24 Saved as file Backup0.max
+Tue Jun 06 19:18:24 Windows which were open at time of error:
+Tue Jun 06 19:18:24 	ActiveWindow: &Route
+Tue Jun 06 19:18:24 	Icon: &Components
+Tue Jun 06 19:18:24 	Icon: &Nets
+Tue Jun 06 19:18:24 	Icon: Post Proces&s
+Tue Jun 06 19:18:24 End-of-list
+Tue Jun 06 19:18:25 Loaded file BACKUP0.MAX
+Tue Jun 06 19:22:07 Saved as file E:\MEUS DOCUMENTOS\PROJETOS\GRAVADOR PIC\BACKUP1.MAX
+Tue Jun 06 19:32:36 Loaded file E:\MEUS DOCUMENTOS\PROJETOS\GRAVADOR PIC\BACKUP1.MAX
+Tue Jun 06 19:32:37 Loaded file E:\MEUS DOCUMENTOS\PROJETOS\TEMPLATE\BIBLIOTECA.LLB
+Tue Jun 06 19:32:37 Loaded file E:\MEUS DOCUMENTOS\TEMPLATE\BIBLIOTECA.LLB
+Tue Jun 06 19:32:37 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\BCON100T.llb
+Tue Jun 06 19:32:37 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\BCON156T.llb
+Tue Jun 06 19:32:37 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\BGA.llb
+Tue Jun 06 19:32:37 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\CLCC.llb
+Tue Jun 06 19:32:37 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\DCON050T.llb
+Tue Jun 06 19:32:37 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\DCON085T.llb
+Tue Jun 06 19:32:37 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\DIMM050F.llb
+Tue Jun 06 19:32:37 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\DIMM050T.llb
+Tue Jun 06 19:32:37 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\DIN.llb
+Tue Jun 06 19:32:37 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\DIP100B.llb
+Tue Jun 06 19:32:37 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\DIP100T.llb
+Tue Jun 06 19:32:37 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\DSUBT.llb
+Tue Jun 06 19:32:37 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\DSUBT_HD.LLB
+Tue Jun 06 19:32:37 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\ECON100T.llb
+Tue Jun 06 19:32:37 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\FBUS.llb
+Tue Jun 06 19:32:37 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\ISA.llb
+Tue Jun 06 19:32:37 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\JUMPER.LLB
+Tue Jun 06 19:32:37 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\LAYOUT.llb
+Tue Jun 06 19:32:37 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\LCON100T.llb
+Tue Jun 06 19:32:37 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\PC104.llb
+Tue Jun 06 19:32:37 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\PCI.llb
+Tue Jun 06 19:32:37 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\PCON100T.llb
+Tue Jun 06 19:32:37 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\PCON156T.llb
+Tue Jun 06 19:32:37 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\PGA.llb
+Tue Jun 06 19:32:37 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\PLCC.llb
+Tue Jun 06 19:32:37 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\QUAD.llb
+Tue Jun 06 19:32:37 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\QUADB.llb
+Tue Jun 06 19:32:37 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\RELAY.llb
+Tue Jun 06 19:32:37 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\RF.llb
+Tue Jun 06 19:32:37 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\SBUS.llb
+Tue Jun 06 19:32:37 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\SIMM050F.llb
+Tue Jun 06 19:32:37 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\SIMM050T.llb
+Tue Jun 06 19:32:37 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\SIMM100F.llb
+Tue Jun 06 19:32:37 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\SIMM100T.llb
+Tue Jun 06 19:32:37 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\SIP.llb
+Tue Jun 06 19:32:37 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\SM.llb
+Tue Jun 06 19:32:37 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\SOG.llb
+Tue Jun 06 19:32:37 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\SOJ.llb
+Tue Jun 06 19:32:37 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\STIFF.llb
+Tue Jun 06 19:32:37 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\TELE.llb
+Tue Jun 06 19:32:37 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\TM_AXIAL.llb
+Tue Jun 06 19:32:37 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\TM_CAP_P.llb
+Tue Jun 06 19:32:37 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\TM_CYLND.llb
+Tue Jun 06 19:32:37 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\TM_DIODE.llb
+Tue Jun 06 19:32:37 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\TM_DISC.llb
+Tue Jun 06 19:32:37 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\TM_RAD.llb
+Tue Jun 06 19:32:37 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\TO.llb
+Tue Jun 06 19:32:37 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\TRAINING.LLB
+Tue Jun 06 19:32:37 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\VRES.llb
+Tue Jun 06 19:32:37 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\WCON100T.llb
+Tue Jun 06 19:32:37 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\XT.llb
+Tue Jun 06 19:32:37 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\ZIGZAG.llb
+Tue Jun 06 19:32:53 Saved as file E:\MEUS DOCUMENTOS\PROJETOS\GRAVADOR PIC\GRAVADOR PIC.MAX
+Tue Jun 06 19:34:18 Saved as file E:\MEUS DOCUMENTOS\PROJETOS\GRAVADOR PIC\SWEEP1.MAX
+Tue Jun 06 19:34:18 Loaded file E:\MEUS DOCUMENTOS\PROJETOS\GRAVADOR PIC\GRAVADOR PIC.MAX
+Tue Jun 06 21:11:37 Saved as file E:\MEUS DOCUMENTOS\PROJETOS\GRAVADOR PIC\BACKUP1.MAX
+Tue Jun 06 21:12:04 Loaded file E:\MEUS DOCUMENTOS\PROJETOS\GRAVADOR PIC\BACKUP1.MAX
+Tue Jun 06 21:12:04 Loaded file E:\MEUS DOCUMENTOS\PROJETOS\TEMPLATE\BIBLIOTECA.LLB
+Tue Jun 06 21:12:04 Loaded file E:\MEUS DOCUMENTOS\TEMPLATE\BIBLIOTECA.LLB
+Tue Jun 06 21:12:04 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\BCON100T.llb
+Tue Jun 06 21:12:04 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\BCON156T.llb
+Tue Jun 06 21:12:04 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\BGA.llb
+Tue Jun 06 21:12:04 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\CLCC.llb
+Tue Jun 06 21:12:04 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\DCON050T.llb
+Tue Jun 06 21:12:04 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\DCON085T.llb
+Tue Jun 06 21:12:04 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\DIMM050F.llb
+Tue Jun 06 21:12:04 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\DIMM050T.llb
+Tue Jun 06 21:12:04 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\DIN.llb
+Tue Jun 06 21:12:04 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\DIP100B.llb
+Tue Jun 06 21:12:04 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\DIP100T.llb
+Tue Jun 06 21:12:04 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\DSUBT.llb
+Tue Jun 06 21:12:04 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\DSUBT_HD.LLB
+Tue Jun 06 21:12:04 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\ECON100T.llb
+Tue Jun 06 21:12:04 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\FBUS.llb
+Tue Jun 06 21:12:04 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\ISA.llb
+Tue Jun 06 21:12:04 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\JUMPER.LLB
+Tue Jun 06 21:12:04 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\LAYOUT.llb
+Tue Jun 06 21:12:04 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\LCON100T.llb
+Tue Jun 06 21:12:04 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\PC104.llb
+Tue Jun 06 21:12:04 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\PCI.llb
+Tue Jun 06 21:12:04 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\PCON100T.llb
+Tue Jun 06 21:12:04 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\PCON156T.llb
+Tue Jun 06 21:12:04 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\PGA.llb
+Tue Jun 06 21:12:04 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\PLCC.llb
+Tue Jun 06 21:12:04 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\QUAD.llb
+Tue Jun 06 21:12:04 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\QUADB.llb
+Tue Jun 06 21:12:04 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\RELAY.llb
+Tue Jun 06 21:12:04 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\RF.llb
+Tue Jun 06 21:12:04 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\SBUS.llb
+Tue Jun 06 21:12:04 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\SIMM050F.llb
+Tue Jun 06 21:12:05 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\SIMM050T.llb
+Tue Jun 06 21:12:05 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\SIMM100F.llb
+Tue Jun 06 21:12:05 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\SIMM100T.llb
+Tue Jun 06 21:12:05 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\SIP.llb
+Tue Jun 06 21:12:05 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\SM.llb
+Tue Jun 06 21:12:05 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\SOG.llb
+Tue Jun 06 21:12:05 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\SOJ.llb
+Tue Jun 06 21:12:05 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\STIFF.llb
+Tue Jun 06 21:12:05 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\TELE.llb
+Tue Jun 06 21:12:05 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\TM_AXIAL.llb
+Tue Jun 06 21:12:05 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\TM_CAP_P.llb
+Tue Jun 06 21:12:05 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\TM_CYLND.llb
+Tue Jun 06 21:12:05 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\TM_DIODE.llb
+Tue Jun 06 21:12:05 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\TM_DISC.llb
+Tue Jun 06 21:12:05 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\TM_RAD.llb
+Tue Jun 06 21:12:05 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\TO.llb
+Tue Jun 06 21:12:05 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\TRAINING.LLB
+Tue Jun 06 21:12:05 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\VRES.llb
+Tue Jun 06 21:12:05 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\WCON100T.llb
+Tue Jun 06 21:12:05 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\XT.llb
+Tue Jun 06 21:12:05 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\ZIGZAG.llb
+Tue Jun 06 21:13:05 Saved as file BACKUP1.MAX
+Tue Jun 06 21:13:05 Saved as file E:\MEUS DOCUMENTOS\PROJETOS\GRAVADOR PIC\GRAVADOR PIC.MAX
+Tue Jun 06 21:13:05 UserDiv from Layout.INI for AutoECO: 60
+Tue Jun 06 21:13:05 Loaded file E:\MEUS DOCUMENTOS\PROJETOS\GRAVADOR PIC\GRAVADOR PIC.MAX
+Tue Jun 06 21:13:05 Loaded file E:\MEUS DOCUMENTOS\PROJETOS\TEMPLATE\BIBLIOTECA.LLB
+Tue Jun 06 21:13:05 Loaded file E:\MEUS DOCUMENTOS\TEMPLATE\BIBLIOTECA.LLB
+Tue Jun 06 21:13:05 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\BCON100T.llb
+Tue Jun 06 21:13:05 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\BCON156T.llb
+Tue Jun 06 21:13:05 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\BGA.llb
+Tue Jun 06 21:13:05 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\CLCC.llb
+Tue Jun 06 21:13:05 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\DCON050T.llb
+Tue Jun 06 21:13:05 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\DCON085T.llb
+Tue Jun 06 21:13:05 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\DIMM050F.llb
+Tue Jun 06 21:13:05 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\DIMM050T.llb
+Tue Jun 06 21:13:05 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\DIN.llb
+Tue Jun 06 21:13:05 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\DIP100B.llb
+Tue Jun 06 21:13:05 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\DIP100T.llb
+Tue Jun 06 21:13:05 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\DSUBT.llb
+Tue Jun 06 21:13:05 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\DSUBT_HD.LLB
+Tue Jun 06 21:13:05 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\ECON100T.llb
+Tue Jun 06 21:13:05 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\FBUS.llb
+Tue Jun 06 21:13:05 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\ISA.llb
+Tue Jun 06 21:13:05 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\JUMPER.LLB
+Tue Jun 06 21:13:05 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\LAYOUT.llb
+Tue Jun 06 21:13:05 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\LCON100T.llb
+Tue Jun 06 21:13:05 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\PC104.llb
+Tue Jun 06 21:13:05 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\PCI.llb
+Tue Jun 06 21:13:05 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\PCON100T.llb
+Tue Jun 06 21:13:05 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\PCON156T.llb
+Tue Jun 06 21:13:05 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\PGA.llb
+Tue Jun 06 21:13:05 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\PLCC.llb
+Tue Jun 06 21:13:05 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\QUAD.llb
+Tue Jun 06 21:13:05 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\QUADB.llb
+Tue Jun 06 21:13:05 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\RELAY.llb
+Tue Jun 06 21:13:05 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\RF.llb
+Tue Jun 06 21:13:05 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\SBUS.llb
+Tue Jun 06 21:13:05 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\SIMM050F.llb
+Tue Jun 06 21:13:05 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\SIMM050T.llb
+Tue Jun 06 21:13:05 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\SIMM100F.llb
+Tue Jun 06 21:13:05 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\SIMM100T.llb
+Tue Jun 06 21:13:05 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\SIP.llb
+Tue Jun 06 21:13:05 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\SM.llb
+Tue Jun 06 21:13:05 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\SOG.llb
+Tue Jun 06 21:13:05 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\SOJ.llb
+Tue Jun 06 21:13:05 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\STIFF.llb
+Tue Jun 06 21:13:05 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\TELE.llb
+Tue Jun 06 21:13:05 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\TM_AXIAL.llb
+Tue Jun 06 21:13:05 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\TM_CAP_P.llb
+Tue Jun 06 21:13:05 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\TM_CYLND.llb
+Tue Jun 06 21:13:05 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\TM_DIODE.llb
+Tue Jun 06 21:13:05 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\TM_DISC.llb
+Tue Jun 06 21:13:05 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\TM_RAD.llb
+Tue Jun 06 21:13:06 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\TO.llb
+Tue Jun 06 21:13:06 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\TRAINING.LLB
+Tue Jun 06 21:13:06 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\VRES.llb
+Tue Jun 06 21:13:06 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\WCON100T.llb
+Tue Jun 06 21:13:06 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\XT.llb
+Tue Jun 06 21:13:06 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\ZIGZAG.llb
+Tue Jun 06 21:13:06 Saved as file E:\MEUS DOCUMENTOS\PROJETOS\GRAVADOR PIC\GRAVADOR PIC.MAX
+Tue Jun 06 21:13:06 Loaded file E:\MEUS DOCUMENTOS\PROJETOS\GRAVADOR PIC\GRAVADOR PIC.MAX
+Tue Jun 06 21:22:48 Saved as file BACKUP1.MAX
+Tue Jun 06 21:23:30 Saved as file BACKUP1.MAX
+Tue Jun 06 21:32:48 Saved as file BACKUP1.MAX
+Tue Jun 06 21:33:30 Saved as file BACKUP1.MAX
+Tue Jun 06 21:42:48 Saved as file BACKUP1.MAX
+Tue Jun 06 21:43:30 Saved as file BACKUP1.MAX
+Tue Jun 06 21:52:48 Saved as file BACKUP1.MAX
+Tue Jun 06 21:53:00 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Tue Jun 06 21:53:00 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Tue Jun 06 21:53:05 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\DIP100T.llb
+Tue Jun 06 21:53:31 Saved as file BACKUP1.MAX
+Tue Jun 06 21:53:43 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Tue Jun 06 21:53:45 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Tue Jun 06 21:53:46 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Tue Jun 06 21:53:47 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Tue Jun 06 21:53:47 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Tue Jun 06 21:53:47 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Tue Jun 06 21:53:48 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Tue Jun 06 21:53:49 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Tue Jun 06 21:53:50 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Tue Jun 06 21:53:50 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Tue Jun 06 21:53:50 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Tue Jun 06 21:53:51 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Tue Jun 06 21:53:51 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Tue Jun 06 21:53:52 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Tue Jun 06 21:53:52 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Tue Jun 06 21:53:52 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Tue Jun 06 21:53:53 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Tue Jun 06 21:53:54 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Tue Jun 06 21:53:55 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Tue Jun 06 21:53:55 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Tue Jun 06 21:53:56 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Tue Jun 06 21:53:57 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Tue Jun 06 21:53:58 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Tue Jun 06 21:53:58 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Tue Jun 06 21:54:01 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Tue Jun 06 21:54:02 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Tue Jun 06 21:54:02 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Tue Jun 06 21:54:03 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Tue Jun 06 21:54:05 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Tue Jun 06 21:54:13 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Tue Jun 06 21:54:13 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Tue Jun 06 21:54:18 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\DCON085T.llb
+Tue Jun 06 21:54:22 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Tue Jun 06 21:54:24 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\DIP100T.llb
+Tue Jun 06 21:54:25 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Tue Jun 06 21:54:29 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Tue Jun 06 21:54:32 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Tue Jun 06 21:55:01 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Tue Jun 06 21:55:01 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Tue Jun 06 21:55:02 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\BCON156T.llb
+Tue Jun 06 21:55:03 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Tue Jun 06 21:55:06 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\DCON085T.llb
+Tue Jun 06 21:55:06 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Tue Jun 06 21:55:08 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Tue Jun 06 21:55:10 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\DIP100T.llb
+Tue Jun 06 21:55:11 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Tue Jun 06 21:55:14 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Tue Jun 06 21:55:16 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Tue Jun 06 21:55:16 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Tue Jun 06 21:55:17 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Tue Jun 06 21:55:20 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Tue Jun 06 21:55:21 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Tue Jun 06 21:55:21 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Tue Jun 06 21:55:22 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Tue Jun 06 21:55:22 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Tue Jun 06 21:56:29 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Tue Jun 06 21:56:29 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Tue Jun 06 21:56:32 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\DCON085T.llb
+Tue Jun 06 21:56:33 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Tue Jun 06 21:56:34 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\DIP100T.llb
+Tue Jun 06 21:56:35 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Tue Jun 06 21:56:36 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Tue Jun 06 21:56:43 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Tue Jun 06 21:56:44 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Tue Jun 06 21:56:46 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Tue Jun 06 21:56:47 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Tue Jun 06 21:56:55 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Tue Jun 06 21:57:02 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Tue Jun 06 21:57:02 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Tue Jun 06 21:57:07 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\DIMM050F.llb
+Tue Jun 06 21:57:08 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\DIP100T.llb
+Tue Jun 06 21:57:11 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Tue Jun 06 21:57:13 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Tue Jun 06 21:57:15 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Tue Jun 06 22:03:31 Saved as file BACKUP1.MAX
+Tue Jun 06 22:05:03 Saved as file E:\MEUS DOCUMENTOS\PROJETOS\GRAVADOR PIC\GRAVADOR PIC.MAX
+Tue Jun 06 22:06:27 Saved as file E:\MEUS DOCUMENTOS\PROJETOS\GRAVADOR PIC\GRAVADOR PIC.MAX
+Tue Jun 06 22:06:49 Saved as file BACKUP1.MAX
+Tue Jun 06 22:09:58 Saved as file BACKUP1.MAX
+Tue Jun 06 22:09:59 Saved as file BACKUP1.MAX
+Tue Jun 06 22:09:59 Saved as file BACKUP1.MAX
+Tue Jun 06 22:09:59 Saved as file BACKUP1.MAX
+Tue Jun 06 22:09:59 No new connections routed.
+Tue Jun 06 22:09:59 Total is now 0 out of 55 (0%).
+Tue Jun 06 22:09:59 Saved as file SWEEP1.MAX
+Tue Jun 06 22:10:18 Saved as file BACKUP1.MAX
+Tue Jun 06 22:10:24 Saved as file BACKUP1.MAX
+Tue Jun 06 22:10:24 Saved as file BACKUP1.MAX
+Tue Jun 06 22:10:24 Saved as file BACKUP1.MAX
+Tue Jun 06 22:10:24 Routed 37 connections in 25 seconds.
+Tue Jun 06 22:10:24 Total is now 35 out of 55 (63%).
+Tue Jun 06 22:10:24 Saved as file SWEEP2.MAX
+Tue Jun 06 22:10:45 No new connections routed.
+Tue Jun 06 22:10:45 Total is now 35 out of 55 (63%).
+Tue Jun 06 22:10:45 Saved as file SWEEP3.MAX
+Tue Jun 06 22:13:05 Error code 5240.022 (2)
+Tue Jun 06 22:13:05 Saved as file Backup0.max
+Tue Jun 06 22:13:05 Windows which were open at time of error:
+Tue Jun 06 22:13:05 	ActiveWindow: &Route
+Tue Jun 06 22:13:05 	Icon: &Components
+Tue Jun 06 22:13:05 	Icon: Post Proces&s
+Tue Jun 06 22:13:05 	Icon: &Nets
+Tue Jun 06 22:13:05 End-of-list
+Tue Jun 06 22:13:06 Loaded file BACKUP0.MAX
+Tue Jun 06 22:13:13 Error code 5240.022 (2)
+Tue Jun 06 22:13:13 Saved as file Backup0.max
+Tue Jun 06 22:13:13 Windows which were open at time of error:
+Tue Jun 06 22:13:13 	ActiveWindow: &Route
+Tue Jun 06 22:13:13 	Icon: &Components
+Tue Jun 06 22:13:13 	Icon: &Nets
+Tue Jun 06 22:13:13 	Icon: Post Proces&s
+Tue Jun 06 22:13:13 End-of-list
+Tue Jun 06 22:13:14 Loaded file BACKUP0.MAX
+Tue Jun 06 22:13:21 Error code 5240.022 (2)
+Tue Jun 06 22:13:21 Saved as file Backup0.max
+Tue Jun 06 22:13:21 Windows which were open at time of error:
+Tue Jun 06 22:13:21 	ActiveWindow: &Route
+Tue Jun 06 22:13:21 	Icon: &Components
+Tue Jun 06 22:13:21 	Icon: &Nets
+Tue Jun 06 22:13:21 	Icon: Post Proces&s
+Tue Jun 06 22:13:21 End-of-list
+Tue Jun 06 22:13:21 Loaded file BACKUP0.MAX
+Tue Jun 06 22:13:31 Saved as file BACKUP1.MAX
+Tue Jun 06 22:14:27 Saved as file E:\MEUS DOCUMENTOS\PROJETOS\GRAVADOR PIC\GRAVADOR PIC.MAX
+Tue Jun 06 22:19:28 Saved as file BACKUP1.MAX
+Tue Jun 06 22:19:28 Saved as file BACKUP1.MAX
+Tue Jun 06 22:19:28 Saved as file BACKUP1.MAX
+Tue Jun 06 22:19:28 Saved as file BACKUP1.MAX
+Tue Jun 06 22:19:28 Saved as file BACKUP1.MAX
+Tue Jun 06 22:19:28 Saved as file BACKUP1.MAX
+Tue Jun 06 22:19:28 No new connections routed.
+Tue Jun 06 22:19:28 Total is now 55 out of 55 (100%).
+Tue Jun 06 22:19:28 Saved as file SWEEP1.MAX
+Tue Jun 06 22:19:29 Saved as file BACKUP1.MAX
+Tue Jun 06 22:19:29 Saved as file BACKUP1.MAX
+Tue Jun 06 22:19:29 Saved as file BACKUP1.MAX
+Tue Jun 06 22:19:29 Saved as file BACKUP1.MAX
+Tue Jun 06 22:19:29 Saved as file BACKUP1.MAX
+Tue Jun 06 22:19:29 Saved as file BACKUP1.MAX
+Tue Jun 06 22:19:29 No new connections routed.
+Tue Jun 06 22:19:29 Total is now 55 out of 55 (100%).
+Tue Jun 06 22:19:29 Saved as file SWEEP2.MAX
+Tue Jun 06 22:19:29 No new connections routed.
+Tue Jun 06 22:19:29 Total is now 55 out of 55 (100%).
+Tue Jun 06 22:19:29 Saved as file SWEEP3.MAX
+Tue Jun 06 22:19:30 No new connections routed.
+Tue Jun 06 22:19:30 Total is now 55 out of 55 (100%).
+Tue Jun 06 22:19:30 Saved as file SWEEP4.MAX
+Tue Jun 06 22:19:30 No new connections routed.
+Tue Jun 06 22:19:30 Total is now 55 out of 55 (100%).
+Tue Jun 06 22:19:30 Saved as file SWEEP5.MAX
+Tue Jun 06 22:20:34 Saved as file E:\MEUS DOCUMENTOS\PROJETOS\GRAVADOR PIC\BACKUP1.MAX
+Tue Jun 06 22:22:01 Saved as file E:\MEUS DOCUMENTOS\PROJETOS\GRAVADOR PIC\BACKUP1.MAX
+Tue Jun 06 22:28:47 Saved as file E:\MEUS DOCUMENTOS\PROJETOS\GRAVADOR PIC\BACKUP1.MAX
+Tue Jun 06 22:29:47 Saved as file E:\MEUS DOCUMENTOS\PROJETOS\GRAVADOR PIC\BACKUP1.MAX
+Tue Jun 06 22:44:26 Saved as file BACKUP1.MAX
+Tue Jun 06 22:54:24 Saved as file BACKUP1.MAX
+Tue Jun 06 23:04:23 Saved as file BACKUP1.MAX
+Tue Jun 06 23:14:23 Saved as file BACKUP1.MAX
+Tue Jun 06 23:24:23 Saved as file BACKUP1.MAX
+Tue Jun 06 23:24:37 Saved as file E:\MEUS DOCUMENTOS\PROJETOS\GRAVADOR PIC\BACKUP1.MAX
+Fri Jun 09 22:05:43 No new connections routed.
+Fri Jun 09 22:05:43 Total is now 51 out of 55 (92%).
+Fri Jun 09 22:05:52 Saved as file BACKUP1.MAX
+Fri Jun 09 22:05:52 Saved as file BACKUP1.MAX
+Fri Jun 09 22:05:52 Saved as file BACKUP1.MAX
+Fri Jun 09 22:05:52 Saved as file BACKUP1.MAX
+Fri Jun 09 22:05:52 Saved as file BACKUP1.MAX
+Fri Jun 09 22:05:52 Saved as file BACKUP1.MAX
+Fri Jun 09 22:05:52 No new connections routed.
+Fri Jun 09 22:05:52 Total is now 51 out of 55 (92%).
+Fri Jun 09 22:05:52 Saved as file SWEEP1.MAX
+Fri Jun 09 22:05:55 Saved as file BACKUP1.MAX
+Fri Jun 09 22:05:55 Saved as file BACKUP1.MAX
+Fri Jun 09 22:05:55 Saved as file BACKUP1.MAX
+Fri Jun 09 22:05:56 Saved as file BACKUP1.MAX
+Fri Jun 09 22:05:56 Saved as file BACKUP1.MAX
+Fri Jun 09 22:05:56 Saved as file BACKUP1.MAX
+Fri Jun 09 22:05:56 Routed 3 connections in 3 seconds.
+Fri Jun 09 22:05:56 Total is now 54 out of 55 (98%).
+Fri Jun 09 22:05:56 Saved as file SWEEP2.MAX
+Fri Jun 09 22:05:56 No new connections routed.
+Fri Jun 09 22:05:56 Total is now 54 out of 55 (98%).
+Fri Jun 09 22:05:56 Saved as file SWEEP3.MAX
+Fri Jun 09 22:05:57 No new connections routed.
+Fri Jun 09 22:05:57 Total is now 54 out of 55 (98%).
+Fri Jun 09 22:05:57 Saved as file SWEEP4.MAX
+Fri Jun 09 22:05:58 No new connections routed.
+Fri Jun 09 22:05:58 Total is now 54 out of 55 (98%).
+Fri Jun 09 22:05:58 Saved as file SWEEP5.MAX
+Fri Jun 09 22:09:26 Saved as file BACKUP1.MAX
+Fri Jun 09 22:09:50 Saved as file E:\MEUS DOCUMENTOS\PROJETOS\GRAVADOR PIC\BACKUP1.MAX
+Fri Jun 09 22:15:21 Saved as file E:\MEUS DOCUMENTOS\PROJETOS\GRAVADOR PIC\BACKUP1.MAX
+Fri Jun 09 22:27:25 Saved as file BACKUP1.MAX
+Fri Jun 09 22:37:25 Saved as file BACKUP1.MAX
+Fri Jun 09 22:47:55 Saved as file BACKUP1.MAX
+Fri Jun 09 22:57:55 Saved as file BACKUP1.MAX
+Fri Jun 09 23:07:55 Saved as file BACKUP1.MAX
+Fri Jun 09 23:17:55 Saved as file BACKUP1.MAX
+Fri Jun 09 23:27:55 Saved as file BACKUP1.MAX
+Fri Jun 09 23:37:55 Saved as file BACKUP1.MAX
+Fri Jun 09 23:40:47 Saved as file E:\MEUS DOCUMENTOS\PROJETOS\GRAVADOR PIC\BACKUP1.MAX
+Fri Jun 09 23:40:48 Saved as file E:\MEUS DOCUMENTOS\PROJETOS\GRAVADOR PIC\BACKUP1.MAX
+Fri Jun 09 23:49:55 Saved as file BACKUP1.MAX
+Fri Jun 09 23:56:07 Saved as file E:\MEUS DOCUMENTOS\PROJETOS\GRAVADOR PIC\GRAVADOR PIC.MAX
+Fri Jun 09 23:56:23 Saved as file E:\MEUS DOCUMENTOS\PROJETOS\GRAVADOR PIC\GRAVADOR PIC.MAX
+Fri Jun 09 23:59:55 Saved as file BACKUP1.MAX
+Sat Jun 10 00:09:55 Saved as file BACKUP1.MAX
+Sat Jun 10 00:19:55 Saved as file BACKUP1.MAX
+Sat Jun 10 00:29:35 Saved as file BACKUP1.MAX
+Sat Jun 10 00:39:35 Saved as file BACKUP1.MAX
+Sun Jun 11 18:14:20 Saved as file E:\MEUS DOCUMENTOS\PROJETOS\GRAVADOR PIC\BACKUP4.MAX
+Sun Jun 11 18:28:01 Saved as file BACKUP1.MAX
+Sun Jun 11 18:38:00 Saved as file BACKUP1.MAX
+Sun Jun 11 18:46:53 Saved as file E:\MEUS DOCUMENTOS\PROJETOS\GRAVADOR PIC\BACKUP1.MAX
+Sun Jun 11 18:56:37 Saved as file BACKUP1.MAX
+Sun Jun 11 19:06:37 Saved as file BACKUP1.MAX
+Sun Jun 11 19:16:37 Saved as file BACKUP1.MAX
+Sun Jun 11 19:26:38 Saved as file BACKUP1.MAX
+Sun Jun 11 19:36:38 Saved as file BACKUP1.MAX
+Sun Jun 11 19:46:38 Saved as file BACKUP1.MAX
+Sun Jun 11 19:56:38 Saved as file BACKUP1.MAX
+Sun Jun 11 20:06:38 Saved as file BACKUP1.MAX
+Sun Jun 11 20:16:38 Saved as file BACKUP1.MAX
+Sun Jun 11 20:24:24 Saved as file E:\MEUS DOCUMENTOS\PROJETOS\GRAVADOR PIC\BACKUP1.MAX
+Fri Jun 16 23:42:05 Saved as file E:\MEUS DOCUMENTOS\PROJETOS\GRAVADOR PIC\BACKUP1.MAX
+Fri Jun 16 23:42:47 Loaded file E:\MEUS DOCUMENTOS\PROJETOS\GRAVADOR PIC\GRAVADOR PIC.MAX
+Fri Jun 16 23:42:47 Removed 4 bad jumpers from layer TOP
+Fri Jun 16 23:42:51 Loaded file E:\MEUS DOCUMENTOS\PROJETOS\GRAVADOR PIC\BACKUP1.MAX
+Fri Jun 16 23:42:51 Removed 5 bad jumpers from layer TOP
+Fri Jun 16 23:45:00 Saved as file BACKUP1.MAX
+Fri Jun 16 23:45:30 Loaded file E:\MEUS DOCUMENTOS\PROJETOS\GRAVADOR PIC\GRAVADOR PIC.MAX
+Fri Jun 16 23:45:30 Removed 4 bad jumpers from layer TOP
+Fri Jun 16 23:45:38 Loaded file E:\MEUS DOCUMENTOS\PROJETOS\GRAVADOR PIC\BACKUP5.MAX
+Fri Jun 16 23:45:38 Removed 3 bad jumpers from layer TOP
+Fri Jun 16 23:45:42 Loaded file E:\MEUS DOCUMENTOS\PROJETOS\GRAVADOR PIC\BACKUP2.MAX
+Fri Jun 16 23:45:42 Removed 5 bad jumpers from layer TOP
+Fri Jun 16 23:45:47 Loaded file E:\MEUS DOCUMENTOS\PROJETOS\GRAVADOR PIC\GRAVADOR PIC.MAX
+Fri Jun 16 23:45:47 Removed 4 bad jumpers from layer TOP
+Fri Jun 16 23:52:18 Saved as file E:\MEUS DOCUMENTOS\PROJETOS\GRAVADOR PIC\BACKUP1.MAX
+Fri Jun 16 23:53:22 Saved as file E:\MEUS DOCUMENTOS\PROJETOS\GRAVADOR PIC\BACKUP1.MAX
+Fri Jun 16 23:53:28 Saved as file E:\MEUS DOCUMENTOS\PROJETOS\GRAVADOR PIC\GRAVADOR PIC.MAX
+Sat Jun 17 21:06:36 Saved as file E:\MEUS DOCUMENTOS\PROJETOS\GRAVADOR PIC\GRAVADOR PIC.MAX
+Sat Jun 17 21:21:33 Saved as file E:\MEUS DOCUMENTOS\PROJETOS\GRAVADOR PIC\GRAVADOR PIC.MAX
+Sat Jun 17 21:22:00 Saved as file E:\MEUS DOCUMENTOS\PROJETOS\GRAVADOR PIC\BACKUP1.MAX
+Sat Jun 17 21:22:07 Saved as file E:\MEUS DOCUMENTOS\PROJETOS\GRAVADOR PIC\GRAVADOR PIC.MAX
+Sat Jun 17 21:28:08 Saved as file BACKUP1.MAX
+Sat Jun 17 21:38:08 Saved as file BACKUP1.MAX
+Sat Jun 17 21:41:16 Saved as file E:\MEUS DOCUMENTOS\PROJETOS\GRAVADOR PIC\GRAVADOR PIC.MAX
+Tue Jun 20 00:02:48 Saved as file Backup0.max
+Tue Jun 20 00:02:48 Windows which were open at time of error:
+Tue Jun 20 00:02:48 	ActiveWindow: &Design
+Tue Jun 20 00:02:48 	Icon: &Components
+Tue Jun 20 00:02:48 	Icon: &Nets
+Tue Jun 20 00:02:48 	Icon: Post Proces&s
+Tue Jun 20 00:02:48 End-of-list
+Tue Jun 20 00:02:51 Loaded file BACKUP0.MAX
+Tue Jun 20 00:02:52 Removed 6 bad jumpers from layer TOP
+Tue Jun 20 00:03:45 Saved as file E:\MEUS DOCUMENTOS\PROJETOS\GRAVADOR PIC\GRAVADOR PIC.MAX
+Tue Jun 20 00:03:47 Saved as file E:\MEUS DOCUMENTOS\PROJETOS\GRAVADOR PIC\GRAVADOR PIC.MAX
+Tue Jun 20 00:04:33 Saved as file E:\MEUS DOCUMENTOS\PROJETOS\GRAVADOR PIC\GRAVADOR PIC.MAX
+Tue Jun 20 00:06:56 Saved as file E:\MEUS DOCUMENTOS\PROJETOS\GRAVADOR PIC\BACKUP1.MAX
+Tue Jun 20 00:25:02 Saved as file E:\MEUS DOCUMENTOS\PROJETOS\GRAVADOR PIC\BACKUP1.MAX
+Tue Jun 20 00:35:56 Saved as file BACKUP1.MAX
+Tue Jun 20 00:40:18 Saved as file E:\MEUS DOCUMENTOS\PROJETOS\GRAVADOR PIC\BACKUP1.MAX
+Tue Jun 20 00:40:26 Saved as file E:\MEUS DOCUMENTOS\PROJETOS\GRAVADOR PIC\BACKUP2.MAX
+Tue Jun 20 00:51:23 Saved as file BACKUP1.MAX
+Tue Jun 20 20:34:12 Saved as file E:\MEUS DOCUMENTOS\PROJETOS\GRAVADOR PIC\BACKUP0.MAX
+Tue Jun 20 20:36:21 Saved as file E:\MEUS DOCUMENTOS\PROJETOS\GRAVADOR PIC\BACKUP0.MAX
+Tue Jun 20 20:37:48 Saved as file E:\MEUS DOCUMENTOS\PROJETOS\GRAVADOR PIC\BACKUP0.MAX
+Tue Jun 20 20:37:49 Saved as file E:\MEUS DOCUMENTOS\PROJETOS\GRAVADOR PIC\BACKUP0.MAX
+Tue Jun 20 20:37:49 Saved as file E:\MEUS DOCUMENTOS\PROJETOS\GRAVADOR PIC\BACKUP0.MAX
+Tue Jun 20 20:37:52 Saved as file E:\MEUS DOCUMENTOS\PROJETOS\GRAVADOR PIC\BACKUP0.MAX
+Tue Jun 20 20:38:17 Saved as file E:\MEUS DOCUMENTOS\PROJETOS\GRAVADOR PIC\BACKUP0.MAX
+Tue Jun 20 20:42:10 Error code 5239.082 (70)
+Tue Jun 20 20:42:10 Saved as file Backup0.max
+Tue Jun 20 20:42:10 Windows which were open at time of error:
+Tue Jun 20 20:42:10 	ActiveWindow: &Design
+Tue Jun 20 20:42:10 	Icon: &Components
+Tue Jun 20 20:42:10 	Icon: &Nets
+Tue Jun 20 20:42:10 	Icon: Post Proces&s
+Tue Jun 20 20:42:10 End-of-list
+Tue Jun 20 20:42:11 Loaded file BACKUP0.MAX
+Tue Jun 20 20:58:51 Saved as file BACKUP1.MAX
+Tue Jun 20 20:59:24 Loaded file E:\MEUS DOCUMENTOS\PROJETOS\TEMPLATE\BIBLIOTECA.LLB
+Tue Jun 20 20:59:24 Loaded file E:\MEUS DOCUMENTOS\TEMPLATE\BIBLIOTECA.LLB
+Tue Jun 20 20:59:24 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\BCON100T.llb
+Tue Jun 20 20:59:24 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\BCON156T.llb
+Tue Jun 20 20:59:25 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\BGA.llb
+Tue Jun 20 20:59:25 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\CLCC.llb
+Tue Jun 20 20:59:25 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\DCON050T.llb
+Tue Jun 20 20:59:25 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\DCON085T.llb
+Tue Jun 20 20:59:25 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\DIMM050F.llb
+Tue Jun 20 20:59:25 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\DIMM050T.llb
+Tue Jun 20 20:59:25 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\DIN.llb
+Tue Jun 20 20:59:25 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\DIP100B.llb
+Tue Jun 20 20:59:25 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\DIP100T.llb
+Tue Jun 20 20:59:25 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\DSUBT.llb
+Tue Jun 20 20:59:25 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\DSUBT_HD.LLB
+Tue Jun 20 20:59:25 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\ECON100T.llb
+Tue Jun 20 20:59:25 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\FBUS.llb
+Tue Jun 20 20:59:25 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\ISA.llb
+Tue Jun 20 20:59:25 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\JUMPER.LLB
+Tue Jun 20 20:59:25 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\LAYOUT.llb
+Tue Jun 20 20:59:25 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\LCON100T.llb
+Tue Jun 20 20:59:25 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\PC104.llb
+Tue Jun 20 20:59:25 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\PCI.llb
+Tue Jun 20 20:59:25 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\PCON100T.llb
+Tue Jun 20 20:59:25 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\PCON156T.llb
+Tue Jun 20 20:59:25 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\PGA.llb
+Tue Jun 20 20:59:25 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\PLCC.llb
+Tue Jun 20 20:59:25 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\QUAD.llb
+Tue Jun 20 20:59:25 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\QUADB.llb
+Tue Jun 20 20:59:25 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\RELAY.llb
+Tue Jun 20 20:59:25 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\RF.llb
+Tue Jun 20 20:59:25 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\SBUS.llb
+Tue Jun 20 20:59:25 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\SIMM050F.llb
+Tue Jun 20 20:59:25 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\SIMM050T.llb
+Tue Jun 20 20:59:25 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\SIMM100F.llb
+Tue Jun 20 20:59:25 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\SIMM100T.llb
+Tue Jun 20 20:59:25 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\SIP.llb
+Tue Jun 20 20:59:26 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\SM.llb
+Tue Jun 20 20:59:26 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\SOG.llb
+Tue Jun 20 20:59:26 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\SOJ.llb
+Tue Jun 20 20:59:26 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\STIFF.llb
+Tue Jun 20 20:59:26 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\TELE.llb
+Tue Jun 20 20:59:26 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\TM_AXIAL.llb
+Tue Jun 20 20:59:26 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\TM_CAP_P.llb
+Tue Jun 20 20:59:26 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\TM_CYLND.llb
+Tue Jun 20 20:59:26 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\TM_DIODE.llb
+Tue Jun 20 20:59:26 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\TM_DISC.llb
+Tue Jun 20 20:59:26 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\TM_RAD.llb
+Tue Jun 20 20:59:26 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\TO.llb
+Tue Jun 20 20:59:26 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\TRAINING.LLB
+Tue Jun 20 20:59:26 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\VRES.llb
+Tue Jun 20 20:59:26 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\WCON100T.llb
+Tue Jun 20 20:59:26 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\XT.llb
+Tue Jun 20 20:59:26 Loaded file D:\Program Files\OrCAD\Layout_Plus\library\ZIGZAG.llb
+Tue Jun 20 20:59:39 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Tue Jun 20 20:59:39 Loaded file D:\Program Files\OrCAD\Layout_Plus\data\template.imp
+Tue Jun 20 21:05:54 Saved as file E:\MEUS DOCUMENTOS\PROJETOS\GRAVADOR PIC\BACKUP0.MAX
+Tue Jun 20 21:06:00 Saved as file E:\MEUS DOCUMENTOS\PROJETOS\GRAVADOR PIC\GRAVADOR PIC.MAX
+Tue Jun 20 21:12:22 Saved as file BACKUP1.MAX
+Tue Jun 20 21:22:21 Saved as file BACKUP1.MAX
+Tue Jun 20 21:32:23 Saved as file BACKUP1.MAX
+Tue Jun 20 21:42:21 Saved as file BACKUP1.MAX
+Tue Jun 20 21:53:22 Saved as file BACKUP1.MAX
+Tue Jun 20 22:03:22 Saved as file BACKUP1.MAX
+Tue Jun 20 22:13:22 Saved as file BACKUP1.MAX
+Tue Jun 20 22:23:22 Saved as file BACKUP1.MAX
+Tue Jun 20 22:33:22 Saved as file BACKUP1.MAX
+Tue Jun 20 22:43:22 Saved as file BACKUP1.MAX
+Tue Jun 20 22:53:22 Saved as file BACKUP1.MAX
+Tue Jun 20 23:03:22 Saved as file BACKUP1.MAX
+Tue Jun 20 23:13:22 Saved as file BACKUP1.MAX
+Tue Jun 20 23:23:22 Saved as file BACKUP1.MAX
+Tue Jun 20 23:33:22 Saved as file BACKUP1.MAX
+Wed Jun 21 18:56:58 Saved as file BACKUP1.MAX
+Wed Jun 21 19:06:57 Saved as file BACKUP1.MAX
+Wed Jun 21 19:16:58 Saved as file BACKUP1.MAX
+Wed Jun 21 22:11:29 Saved as file E:\MEUS DOCUMENTOS\PROJETOS\GRAVADOR PIC\GRAVADOR PIC.MAX
+Wed Jun 21 22:12:47 Loaded file E:\Meus Documentos\Projetos\Gravador PIC\GRAVADOR PIC.MAX
+Thu Jun 22 21:36:00 Loaded file E:\Meus Documentos\Projetos\Gravador PIC\GRAVADOR PIC.MAX
+Wed Jul 12 23:10:07 Loaded file E:\Meus Documentos\Projetos\Gravador PIC\GRAVADOR PIC.MAX
+Wed Jul 12 23:14:36 Loaded file E:\Meus Documentos\Projetos\Gravador PIC\GRAVADOR PIC.MAX
+Thu Jul 13 22:02:03 Loaded file E:\Meus Documentos\Projetos\Gravador PIC\GRAVADOR PIC.MAX
+Fri Jul 14 19:46:22 Loaded file E:\Meus Documentos\Projetos\Gravador PIC\GRAVADOR PIC.MAX
+Fri Jul 14 19:47:12 Loaded file E:\Meus Documentos\Projetos\Gravador PIC\GRAVADOR PIC.MAX
+Fri Jul 14 19:54:37 Loaded file E:\Meus Documentos\Projetos\Gravador PIC\GRAVADOR PIC.MAX
+Fri Jul 14 19:55:23 Loaded file D:\Program Files\OrCAD\Layout_Eng_Ed\data\default.tch
+Fri Jul 14 19:55:24 Saved as file E:\Meus Documentos\Projetos\Gravador PIC\GRAVADOR PIC3.max
+Fri Jul 14 21:34:17 Loaded file E:\MEUS DOCUMENTOS\PROJETOS\GRAVADOR PIC\GRAVADOR PIC.MAX
+Fri Jul 14 21:34:17 Loaded file D:\Program Files\OrCAD\Layout_Eng_Ed\library\BCON100T.llb
+Fri Jul 14 21:34:17 Loaded file D:\Program Files\OrCAD\Layout_Eng_Ed\library\BCON156T.llb
+Fri Jul 14 21:34:18 Loaded file D:\Program Files\OrCAD\Layout_Eng_Ed\library\BGA.llb
+Fri Jul 14 21:34:18 Loaded file D:\Program Files\OrCAD\Layout_Eng_Ed\library\CLCC.llb
+Fri Jul 14 21:34:18 Loaded file D:\Program Files\OrCAD\Layout_Eng_Ed\library\DCON050T.llb
+Fri Jul 14 21:34:18 Loaded file D:\Program Files\OrCAD\Layout_Eng_Ed\library\DCON085T.llb
+Fri Jul 14 21:34:18 Loaded file D:\Program Files\OrCAD\Layout_Eng_Ed\library\DIMM050F.llb
+Fri Jul 14 21:34:18 Loaded file D:\Program Files\OrCAD\Layout_Eng_Ed\library\DIMM050T.llb
+Fri Jul 14 21:34:18 Loaded file D:\Program Files\OrCAD\Layout_Eng_Ed\library\DIN.llb
+Fri Jul 14 21:34:18 Loaded file D:\Program Files\OrCAD\Layout_Eng_Ed\library\DIP100B.llb
+Fri Jul 14 21:34:18 Loaded file D:\Program Files\OrCAD\Layout_Eng_Ed\library\DIP100T.llb
+Fri Jul 14 21:34:18 Loaded file D:\Program Files\OrCAD\Layout_Eng_Ed\library\DSUBT.llb
+Fri Jul 14 21:34:18 Loaded file D:\Program Files\OrCAD\Layout_Eng_Ed\library\DSUBT_HD.LLB
+Fri Jul 14 21:34:18 Loaded file D:\Program Files\OrCAD\Layout_Eng_Ed\library\ECON100T.llb
+Fri Jul 14 21:34:18 Loaded file D:\Program Files\OrCAD\Layout_Eng_Ed\library\FBUS.llb
+Fri Jul 14 21:34:18 Loaded file D:\Program Files\OrCAD\Layout_Eng_Ed\library\ISA.llb
+Fri Jul 14 21:34:18 Loaded file D:\Program Files\OrCAD\Layout_Eng_Ed\library\JUMPER.LLB
+Fri Jul 14 21:34:18 Loaded file D:\Program Files\OrCAD\Layout_Eng_Ed\library\LAYOUT.llb
+Fri Jul 14 21:34:18 Loaded file D:\Program Files\OrCAD\Layout_Eng_Ed\library\LCON100T.llb
+Fri Jul 14 21:34:18 Loaded file D:\Program Files\OrCAD\Layout_Eng_Ed\library\PC104.llb
+Fri Jul 14 21:34:18 Loaded file D:\Program Files\OrCAD\Layout_Eng_Ed\library\PCI.llb
+Fri Jul 14 21:34:18 Loaded file D:\Program Files\OrCAD\Layout_Eng_Ed\library\PCON100T.llb
+Fri Jul 14 21:34:18 Loaded file D:\Program Files\OrCAD\Layout_Eng_Ed\library\PCON156T.llb
+Fri Jul 14 21:34:18 Loaded file D:\Program Files\OrCAD\Layout_Eng_Ed\library\PGA.llb
+Fri Jul 14 21:34:18 Loaded file D:\Program Files\OrCAD\Layout_Eng_Ed\library\PLCC.llb
+Fri Jul 14 21:34:18 Loaded file D:\Program Files\OrCAD\Layout_Eng_Ed\library\QUAD.llb
+Fri Jul 14 21:34:18 Loaded file D:\Program Files\OrCAD\Layout_Eng_Ed\library\QUADB.llb
+Fri Jul 14 21:34:18 Loaded file D:\Program Files\OrCAD\Layout_Eng_Ed\library\RELAY.llb
+Fri Jul 14 21:34:18 Loaded file D:\Program Files\OrCAD\Layout_Eng_Ed\library\RF.llb
+Fri Jul 14 21:34:18 Loaded file D:\Program Files\OrCAD\Layout_Eng_Ed\library\SBUS.llb
+Fri Jul 14 21:34:18 Loaded file D:\Program Files\OrCAD\Layout_Eng_Ed\library\SIMM050F.llb
+Fri Jul 14 21:34:18 Loaded file D:\Program Files\OrCAD\Layout_Eng_Ed\library\SIMM050T.llb
+Fri Jul 14 21:34:18 Loaded file D:\Program Files\OrCAD\Layout_Eng_Ed\library\SIMM100F.llb
+Fri Jul 14 21:34:18 Loaded file D:\Program Files\OrCAD\Layout_Eng_Ed\library\SIMM100T.llb
+Fri Jul 14 21:34:18 Loaded file D:\Program Files\OrCAD\Layout_Eng_Ed\library\SIP.llb
+Fri Jul 14 21:34:18 Loaded file D:\Program Files\OrCAD\Layout_Eng_Ed\library\SM.llb
+Fri Jul 14 21:34:18 Loaded file D:\Program Files\OrCAD\Layout_Eng_Ed\library\SOG.llb
+Fri Jul 14 21:34:18 Loaded file D:\Program Files\OrCAD\Layout_Eng_Ed\library\SOJ.llb
+Fri Jul 14 21:34:18 Loaded file D:\Program Files\OrCAD\Layout_Eng_Ed\library\STIFF.llb
+Fri Jul 14 21:34:18 Loaded file D:\Program Files\OrCAD\Layout_Eng_Ed\library\TELE.llb
+Fri Jul 14 21:34:18 Loaded file D:\Program Files\OrCAD\Layout_Eng_Ed\library\TM_AXIAL.llb
+Fri Jul 14 21:34:18 Loaded file D:\Program Files\OrCAD\Layout_Eng_Ed\library\TM_CAP_P.llb
+Fri Jul 14 21:34:19 Loaded file D:\Program Files\OrCAD\Layout_Eng_Ed\library\TM_CYLND.llb
+Fri Jul 14 21:34:19 Loaded file D:\Program Files\OrCAD\Layout_Eng_Ed\library\TM_DIODE.llb
+Fri Jul 14 21:34:19 Loaded file D:\Program Files\OrCAD\Layout_Eng_Ed\library\TM_DISC.llb
+Fri Jul 14 21:34:19 Loaded file D:\Program Files\OrCAD\Layout_Eng_Ed\library\TM_RAD.llb
+Fri Jul 14 21:34:19 Loaded file D:\Program Files\OrCAD\Layout_Eng_Ed\library\TO.llb
+Fri Jul 14 21:34:19 Loaded file D:\Program Files\OrCAD\Layout_Eng_Ed\library\TRAINING.LLB
+Fri Jul 14 21:34:19 Loaded file D:\Program Files\OrCAD\Layout_Eng_Ed\library\VRES.llb
+Fri Jul 14 21:34:19 Loaded file D:\Program Files\OrCAD\Layout_Eng_Ed\library\WCON100T.llb
+Fri Jul 14 21:34:19 Loaded file D:\Program Files\OrCAD\Layout_Eng_Ed\library\XT.llb
+Fri Jul 14 21:34:19 Loaded file D:\Program Files\OrCAD\Layout_Eng_Ed\library\ZIGZAG.llb
+Fri Jul 14 21:36:03 Saved as file E:\MEUS DOCUMENTOS\PROJETOS\GRAVADOR PIC\GRAVADOR PIC.MAX
+Thu Jul 20 22:14:27 Saved as file BACKUP1.MAX

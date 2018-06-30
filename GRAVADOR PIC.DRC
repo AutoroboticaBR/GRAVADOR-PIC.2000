@@ -1,0 +1,26 @@
+
+Checking Pins and Pin Connections
+
+--------------------------------------------------
+Checking Schematic: SCHEMATIC1
+--------------------------------------------------
+Checking Electrical Rules 
+ERROR:  [DRC0004]  Possible pin type conflict D9,K Output Connected to Power
+                    SCHEMATIC1, PAGE1  (5.00, 5.00) 
+
+Checking for Unconnected Nets
+
+Checking Off-Page Connections
+
+Checking for Invalid References
+
+Checking for Duplicate References
+
+Reporting Ports
+
+Reporting Off-Page Connections
+
+Reporting Globals
+    VSS
+    VDD
+    GND
